@@ -132,8 +132,6 @@ I've taken the idea of optimal minimisation from *An Introduction to Daoist Phil
 
 If you haven't already, you should listen to the [Old Lady Job Justification Hearings](https://www.youtube.com/watch?v=vD0gVRI_kEQ) from Mitchell and Webb. 
 
-Read Graeber's original article on [bullshit jobs](https://www.strike.coop/bullshit-jobs/). 
-
 This piece on happiness at work is [well worth reading](https://hbr.org/2015/07/the-research-weve-ignored-about-happiness-at-work).
 
 ------

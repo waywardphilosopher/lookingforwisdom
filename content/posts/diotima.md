@@ -14,7 +14,7 @@ title = "Diotima Climbs the Ladder of Love"
 
 ## Life
 
-Our knowledge of Diotima is so sparse that many people have concluded that she was not an historical figure, but instead a literary invention. Diotima appears as a character in Plato’s _Symposium_, where [Socrates](__GHOST_URL__/philosopher-file-socrates) refers to her as “a woman of Mantinea—a woman who was wise in many things.” And our knowledge of her doesn’t extend far beyond this.
+Our knowledge of Diotima is so sparse that many people have concluded that she was not an historical figure, but instead a literary invention. Diotima appears as a character in Plato’s _Symposium_, where [Socrates](/socrates) refers to her as “a woman of Mantinea—a woman who was wise in many things.” And our knowledge of her doesn’t extend far beyond this.
 
 Diotima’s name means “honoured by Zeus.” Her name suggests that she was a priestess, and according to Plato’s _Symposium_, she was also a philosopher and one of Socrates’s teachers. This would put her life in the fifth century before the common era.
 

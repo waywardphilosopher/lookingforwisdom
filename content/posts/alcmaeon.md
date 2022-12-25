@@ -36,8 +36,7 @@ Several early Greek philosophers, including [Anaximander](/anaximander), are sai
 
 In the works of Homer, sudden sickness was often attributed to the gods Apollo and Artemis, with Artemis—according to the translator Emily Wilson—being associated in particular with the deaths of women.[2] There is a good example of this in the _Iliad_. When the Greek army outside the city of Troy is struck down by sickness, Homer attributes the cause to Apollo's anger at Agamemnon. Supernatural sicknesses require supernatural cures. So the Greeks consult the diviner Calchas, who tells them how to mollify the enraged Apollo; and when they do, the plague subsides.
 
-<figure><img src="/images/achilles-medicine.jpg" alt="Greek vase painting of Achilles" style="width:100%">
-<figcaption align = "center"><b>Greek vase painting of Achilles tending Patroclus wounded by an arrow. c. 500 BCE. Public domain via <a href="https://commons.wikimedia.org/wiki/File:Akhilleus_Patroklos_Antikensammlung_Berlin_F2278.jpg)">Wikimedia Commons</a>.</b></figcaption></figure>
+![img](/images/achilles-medicine.jpg)Greek vase painting of Achilles tending Patroclus wounded by an arrow. c. 500 BCE. Public domain via <a href="https://commons.wikimedia.org/wiki/File:Akhilleus_Patroklos_Antikensammlung_Berlin_F2278.jpg)">Wikimedia Commons</a>.
 
 ### The birth of naturalistic medicine
 

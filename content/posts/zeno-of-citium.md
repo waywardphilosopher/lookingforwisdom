@@ -29,7 +29,7 @@ Zeno took on the idea of living in  accord with nature, but he had no taste for 
 
 ### In the painted porch
 
-Although some of the roots of Stoicism can be found in the teachings of the  Cynic school, Zeno was also impressed by the followers of Socrates. For  some time in Athens, he studied with Polemo, who was the head of [Plato](plato-part-one/)'s academy. But in the end, he broke with the Platonist school, just as he had broken with the Cynics. And eventually, Zeno set up a school of his own, sometime around the year 300 BCE.
+Although some of the roots of Stoicism can be found in the teachings of the  Cynic school, Zeno was also impressed by the followers of Socrates. For  some time in Athens, he studied with Polemo, who was the head of [Plato](/plato-part-one/)'s academy. But in the end, he broke with the Platonist school, just as he had broken with the Cynics. And eventually, Zeno set up a school of his own, sometime around the year 300 BCE.
 
 The philosophical school founded by Zeno met at the *stoa poikile*, or “painted porch”, a covered walkway filled with paintings of  historical and mythical battles. Because of their chosen meeting-place,  this group of philosophers eventually became known as the Stoics. 
 

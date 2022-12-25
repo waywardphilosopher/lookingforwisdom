@@ -46,7 +46,7 @@ One image that crops up repeatedly in the text, in various forms, is the image o
 
 Then Ziqi sighs, and says, “Ah! People of spirit depend on this uselessness!”
 
-The argument is this: useful trees, and useful people, are liable to be chopped down. Making ourselves useful simply puts us in the way of danger, just like the government minister who bustles around being useful, only to be cast aside (or, worse, executed) when it no longer seems expedient for them to continue in their role. Our concern with usefulness brings with it significant risks and problems (see also [Yang Zhu](/yang-zhu), and [Arete the Cyrenaic](/philosopher-file/arete)).
+The argument is this: useful trees, and useful people, are liable to be chopped down. Making ourselves useful simply puts us in the way of danger, just like the government minister who bustles around being useful, only to be cast aside (or, worse, executed) when it no longer seems expedient for them to continue in their role. Our concern with usefulness brings with it significant risks and problems (see also [Yang Zhu](/yang-zhu), and [Arete the Cyrenaic](/arete)).
 
 After talking about several large, gnarled and useless trees, the _Zhuangzi_ switches to the human world. Here the author tells the story of a man he calls Shu the Discombobulated. Shu is so profoundly disabled that he is passed over for military service, and exempted by rulers when it comes to engaging in forced labour. In this way, Shu manages to live out his natural lifespan, while his able-bodied compatriots risk, and often lose, their lives.
 

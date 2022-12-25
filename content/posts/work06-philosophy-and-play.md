@@ -133,7 +133,7 @@ This is not, as Mattice herself knows, the last word on what philosophy is or wh
 
 Try Ian Bogost's _Play Anything: The Pleasure of Limits, the Uses of Boredom, and the Secret of Games_, which takes a fascinating look at play and constraint (Basic Books 2016)
 
-A good place to start exploring the rich scholarship on play is the American Journal of Play, which can be found online [here](https://www.journalofplay.org/issues).
+A good place to start exploring the rich scholarship on play is the American Journal of Play, which can be found online [here](https://www.museumofplay.org/journalofplay/).
 
 ---
 

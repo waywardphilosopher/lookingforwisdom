@@ -83,7 +83,7 @@ But here, it might be worth being cautious. This series, after all, is on *readi
 
 So here the advice might be this: philosophise when drunk by all means.  But if you want to derive benefit from drunken philosophy, you need to  engage in it alongside others. Instead of reading in solitary silence,  try reading your philosophy [out loud, in the company of others](/7-ways-out-loud/), with a lot of riotous joking and discussion and banter, and see what  benefits this brings to your reading, and to your life as a philosopher.
 
-However, here we need to ask one final question: what if you don't drink? What  about all those teetotal philosophers out there? Are you doomed to  missing out/ Not necessarily! Because if what is most important here is  the sense of boldness, the vivacity of emotion, what Plato might call  the softness of the soul, and the sheer joy of being with others, then  alcohol is not the end but a means. What matters most for doing  philosophy, in this view, is [conviviality](/s2-02-we-all-stand-together/), however you choose to cultivate it.
+However, here we need to ask one final question: what if you don't drink? What  about all those teetotal philosophers out there? Are you doomed to  missing out/ Not necessarily! Because if what is most important here is  the sense of boldness, the vivacity of emotion, what Plato might call  the softness of the soul, and the sheer joy of being with others, then  alcohol is not the end but a means. What matters most for doing  philosophy, in this view, is [conviviality](/love02-we-all-stand-together/), however you choose to cultivate it.
 
 So this will be the topic of the next piece in this series: because for  Plato, philosophy, like drinking, is a communal pursuit. 
 

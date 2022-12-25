@@ -1,7 +1,7 @@
 ---
-title: The Season To Be Jolly
+title: Philosophy at the Chinbridge Institute
 date: 2022-01-02 08:01:35 +0300
-subtitle: Letterign
+subtitle: Myanmar
 image: 'https://via.placeholder.com/1200x800'
 ---
 

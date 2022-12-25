@@ -22,7 +22,7 @@ But when it comes to asking what wisdom _really_ is, things get a bit trickier. 
 
 ### Love and humility
 
-As is well-known, philosophy or _philosophia_ (φιλοσοφία in Greek) is the love (_philo_) of wisdom (_sophia_). This is an idea that goes back to the ancient Greek philosopher [Pythagoras](pythagoras). And since Pythagoras, philosophers have claimed to have a particularly close relationship with wisdom. This is a view that continues to persist however many misguided or foolish things philosophers do.
+As is well-known, philosophy or _philosophia_ (φιλοσοφία in Greek) is the love (_philo_) of wisdom (_sophia_). This is an idea that goes back to the ancient Greek philosopher [Pythagoras](/pythagoras). And since Pythagoras, philosophers have claimed to have a particularly close relationship with wisdom. This is a view that continues to persist however many misguided or foolish things philosophers do.
 
 In their defence, when philosophers claim to _love_ wisdom, they are not necessarily claiming to be wise. Instead, they are claiming that wisdom is something they cherish, and something to which they aspire.
 

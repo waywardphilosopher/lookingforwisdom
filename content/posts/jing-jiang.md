@@ -68,7 +68,7 @@ At the end of the argument, Wenbo now understands more about politics than befor
 
 The story in the _Biographies of Exemplary Women_ acknowledges Jing Jiang as a knowledgable and competent advisor in what was, in Ancient China, the traditionally male domain of politics.
 
-But what makes the story of Jing Jiang even more fascinating is the skill with which she weaves her argument. She systematically uses the analogy between weaving and politics to illuminate some important and salient features of good government. It is interesting here to compare Jing Jiang with [Gārgī Vācaknavī](gargi) in India, who also used metaphors of weaving to gain authority in philosophical debate.
+But what makes the story of Jing Jiang even more fascinating is the skill with which she weaves her argument. She systematically uses the analogy between weaving and politics to illuminate some important and salient features of good government. It is interesting here to compare Jing Jiang with [Gārgī Vācaknavī](/gargi) in India, who also used metaphors of weaving to gain authority in philosophical debate.
 
 Finally, the approach she takes to weaving her arguments shows that Jing Jiang has a clear grasp on the problems faced in a patriarchal society by women thinkers seeking to contribute to philosophical debate. And she has the skill in rhetoric and debate to see the analogy through, and press her point home.
 

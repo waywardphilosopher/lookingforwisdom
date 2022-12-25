@@ -58,7 +58,7 @@ The most complete historical account of Aspasia — the person and the many myth
 
 There is a good entry on Aspasia on the [Ancient History Encyclopedia](https://www.ancient.eu/Aspasia_of_Miletus/).
 
-There’s a fascinating piece on the _Conversation_ by Armand D’Angour, exploring the influence of women philosophers on the direction of Socrates’s philosophy. D’Angour argues (spoiler alert!) that [Diotima](__GHOST_URL__/philosopher-file-diotima) and Aspasia were _one and the same_. I’m not 100% convinced, but it’s a fun read. [The link is here](https://theconversation.com/socrates-in-love-how-the-ideas-of-this-woman-are-at-the-root-of-western-philosophy-109593). If you want to read the full argument, the book is _Socrates in Love: The Making of a Philosopher_ (Bloomsbury 2019).
+There’s a fascinating piece on the _Conversation_ by Armand D’Angour, exploring the influence of women philosophers on the direction of Socrates’s philosophy. D’Angour argues (spoiler alert!) that [Diotima](/diotima) and Aspasia were _one and the same_. I’m not 100% convinced, but it’s a fun read. [The link is here](https://theconversation.com/socrates-in-love-how-the-ideas-of-this-woman-are-at-the-root-of-western-philosophy-109593). If you want to read the full argument, the book is _Socrates in Love: The Making of a Philosopher_ (Bloomsbury 2019).
 
 
 
