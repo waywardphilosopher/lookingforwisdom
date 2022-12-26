@@ -1,6 +1,9 @@
 [build]
-  command = "hugo"
+  command = "npm install && hugo --minify"
   publish = "public"
 
 [build.environment]
   HUGO_VERSION = "0.98.0"
+
+[functions]
+  node_bundler = "esbuild"
