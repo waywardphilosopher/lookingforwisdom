@@ -53,6 +53,9 @@
     }
     {{ end }}
   </script>
+  <!-- Plausible -->
+  <script defer data-domain="lookingforwisdom.com" src="https://plausible.io/js/script.js"></script>
+
 
   <!-- CSS -->
   {{ with resources.Get "sass/main.scss" | toCSS | minify }}

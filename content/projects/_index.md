@@ -1,4 +1,4 @@
 ---
-title: My works
-description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+title: Projects and Books
+description: A selection of projects and books from the Looking for Wisdom and Wind&Bones team.
 ---

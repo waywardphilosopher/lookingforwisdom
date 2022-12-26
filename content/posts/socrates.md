@@ -50,12 +50,6 @@ Another important claim that Plato attributes to Socrates is that the soul and t
 
 ---
 
-## Join the Community!
-
-Join the community and help support the long-term growth of Looking for Wisdom. As a community member, you will get access to the Agora community forum, where you can participate in guided discussions, as well as getting free access to our monthly Sunday Salons. You'll also get an exclusive community-member newsletter, and the warm glow of knowing that you are supporting independent publishing. How nice is that?
-
----
-
 ## Further Reading
 
 ### Books

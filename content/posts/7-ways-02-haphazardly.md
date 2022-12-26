@@ -39,7 +39,25 @@ Then again, maybe you shouldn't. In his brilliant little book _The Rights of the
 
 Here are Pennac's ten rights.
 
-> The right not to readThe right to skipThe right not to finish a bookThe right to re-readThe right to read anythingThe right to mistake a book for real lifeThe right to read anywhereThe right to dip inThe right to read out loudThe right to be silent
+> The right not to read 
+>
+> The right to skip
+>
+> The right not to finish a book
+>
+> The right to re-read
+>
+> The right to read anything
+>
+> The right to mistake a book for real life
+>
+> The right to read anywhere
+>
+> The right to dip in
+>
+> The right to read out loud
+>
+> The right to be silent
 
 The first right here—the right not to read—is an important one. Sometimes we think we need to read not individual books, but instead whole traditions, in a systematic fashion. There will always be people who tell you, for example, that you _have_ to read Kant's _Critique of Pure Reason_. But Plato did not read Kant. Neither did Aristotle. So it's clearly not obligatory. It might be that reading Kant will help you think through some particular issues. And there _are_ many good reasons to read Kant. But in most normal circumstances (outside of university courses, for example) it's not compulsory.
 

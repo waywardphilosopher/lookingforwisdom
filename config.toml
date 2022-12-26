@@ -82,10 +82,16 @@ paginate = 6
       weight = 5
 
       [[menu.footer]]
+      identifier = "privacy"
+      name = "Privacy"
+      url = "/privacy/"
+      weight = 6
+
+      [[menu.footer]]
       identifier = "contact"
       name = "Contact"
       url = "/contact/"
-      weight = 6
+      weight = 7
 
 
 
@@ -137,8 +143,8 @@ paginate = 6
   # Projects Settings
   [params.projects]
     enable = true
-    projects__title= "Books & Projects"
-    projects__description= "Find out about some of our other projects!"
+    projects__title= "Projects & Books"
+    projects__description= "Find out about some of the things we are up to!"
 
 
   #-------------------------------
@@ -188,7 +194,7 @@ paginate = 6
   # Blog Section
   [params.blog]
     enable = true
-    blog__title = "Recent Posts"
+    blog__title = "Latest Updates"
     blog__description = ""
 
 
@@ -218,9 +224,6 @@ paginate = 6
   # Contact Settings
   [params.contact]
     contact__email = "contact@lookingforwisdom.com" # Add your form_id
-
-    # NOTE
-    # Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
 
 
   #-------------------------------
