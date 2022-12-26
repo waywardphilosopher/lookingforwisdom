@@ -31,9 +31,8 @@ Here we are with Margaret, our intern cat. Margaret's role at the Looking for Wi
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy">
+    <img src="/images/windandbonesworkshop.jpg" loading="lazy">
+    <img src="/images/cafe3.jpg" loading="lazy">
+    <img src="/images/hannah.jpg" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://via.placeholder.com/1200x800" target="_blank">Unsplash</a></em>
 </div>
