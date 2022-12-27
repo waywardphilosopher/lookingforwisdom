@@ -7,15 +7,15 @@ image: 'images/LFW-header2.jpg'
 
 Looking for Wisdom brings you the world's philosophy! 
 
-#### Our website
+### Our website
 
 We publish articles on some of history's most profound thinkers, drawing on traditions from across the world: from China to Mesoamerica, and from Africa to Europe.
 
-#### Our newsletter
+### Our newsletter
 
 We also send out an irregular newsletter with updates about what's new on the website, book recommendations, links to interesting things elsewhere, and all kinds of other philosophical goodness.
 
-#### Our projects
+### Our projects
 
 We also run philosophy projects, exploring how the riches of the world's philosophical traditions can throw light on our present-day lives. We have worked everywhere from China to Myanmar, and from Bulgaria to the UK. We also love collaborating, so get in touch if you want to work with us.
 
