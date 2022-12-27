@@ -53,7 +53,20 @@ Now that we've made these changes, we've got lots of new content in the works. S
 ### Relaunching the newsletter
 Until now at Looking for Wisdom, when we posted new content on the site, by default it would automatically go out to subscribers. But for this relaunch, we wanted to separate out the website and the newsletter, recognising that websites and newsletters are different kinds of beasts. We're using the website for more enduring content, and the newsletter for more fleeting, time-sensitive content. 
 
-The newsletter now runs using [Buttondown](https://buttondown.email/). We love their ethos, the price is great, deliverability is excellent, and we can write our newsletters in Markdown. The overall cost is $90 a year, which is pretty much our only ongoing running cost. If you are a subscriber, you will have already been moved over to the new newsletter.
+The newsletter now runs using [Buttondown](https://buttondown.email/). We love their ethos, the price is great, deliverability is excellent, and we can write our newsletters in Markdown. The overall cost is $90 a year, which is pretty much our only ongoing running cost. If you are a subscriber, you will have already been moved over to the new newsletter. If not, you can sign up here.
+
+<div class="hero__subscribe">
+<form class="subscribe-form validate" action="https://buttondown.email/api/emails/embed-subscribe/lookingforwisdom" method="post" target="popupwindow"  onsubmit="window.open('https://buttondown.email/lookingforwisdom', 'popupwindow')"
+              class="embeddable-buttondown-form"
+            >
+              <label class="screen-reader-text" for="bd-email">Enter your email</label>
+              <input class="subscribe-email required email" id="mce-EMAIL" type="email" name="email" id="bd-email" placeholder="Your email"/>
+              <input class="button button--primary button--small subscribe-button" id="membedded-subscribe" type="submit" value="Subscribe" />
+              <p class="greyout">
+                Emails sent using Buttondown newsletter. You can unsubscribe at any time.
+              </p>
+            </form>
+</div>
 
 Finally, there's no paid subscription tier any more. But if you appreciate the newsletter and want to donate to what we do at Looking for Wisdom / Wind&Bones, you have that option. There's no suggested donation: it's entirely up to you!
 
