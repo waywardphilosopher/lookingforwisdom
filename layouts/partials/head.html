@@ -22,6 +22,8 @@
   <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
   {{ if .IsHome}}<meta property="og:image" content="{{ .Site.Params.hero.hero__image | absURL }}">{{ else }}<meta property="og:image" content="{{ .Params.Image | absURL }}">{{ end }}
 
+<script defer data-domain="lookingforwisdom.com" src="https://plausible.io/js/script.js"></script>
+
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.gstatic.com">
   
@@ -53,10 +55,7 @@
     }
     {{ end }}
   </script>
-  <!-- Plausible -->
-  <script defer data-domain="lookingforwisdom.com" src="https://plausible.io/js/script.js"></script>
-
-
+  
   <!-- CSS -->
   {{ with resources.Get "sass/main.scss" | toCSS | minify }}
   <style>{{ .Content | safeCSS }}</style>

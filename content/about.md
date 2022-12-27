@@ -15,6 +15,19 @@ We publish articles on some of history's most profound thinkers, drawing on trad
 
 We also send out an irregular newsletter with updates about what's new on the website, book recommendations, links to interesting things elsewhere, and all kinds of other philosophical goodness.
 
+<div class="hero__subscribe">
+<form class="subscribe-form validate" action="https://buttondown.email/api/emails/embed-subscribe/lookingforwisdom" method="post" target="popupwindow"  onsubmit="window.open('https://buttondown.email/lookingforwisdom', 'popupwindow')"
+              class="embeddable-buttondown-form"
+            >
+              <label class="screen-reader-text" for="bd-email">Enter your email</label>
+              <input class="subscribe-email required email" id="mce-EMAIL" type="email" name="email" id="bd-email" placeholder="Your email"/>
+              <input class="button button--primary button--small subscribe-button" id="membedded-subscribe" type="submit" value="Subscribe" />
+              <p class="greyout">
+                Emails sent using Buttondown newsletter. You can unsubscribe at any time.
+              </p>
+            </form>
+</div>
+
 ### Our projects
 
 We also run philosophy projects, exploring how the riches of the world's philosophical traditions can throw light on our present-day lives. We have worked everywhere from China to Myanmar, and from Bulgaria to the UK. We also love collaborating, so get in touch if you want to work with us.

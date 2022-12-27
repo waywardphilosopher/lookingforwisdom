@@ -111,7 +111,7 @@ paginate = 6
   [[params.social]]
     icon = "ion-logo-facebook"
     name = "Facebook"
-    link = "https://facebook.com/lookingforwisdom"
+    link = "https://facebook.com/groups/lookingforwisdom"
 
   [[params.social]]
     icon = "ion-logo-instagram"
