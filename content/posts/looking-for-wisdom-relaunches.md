@@ -55,14 +55,12 @@ Until now at Looking for Wisdom, when we posted new content on the site, by defa
 
 The newsletter now runs using [Buttondown](https://buttondown.email/). We love their ethos, the price is great, deliverability is excellent, and we can write our newsletters in Markdown. The overall cost is $90 a year, which is pretty much our only ongoing running cost. If you are a subscriber, you will have already been moved over to the new newsletter.
 
-Finally, there's no paid subscription tier any more. But if you appreciate the newsletter and want to donate to whatwe do at Looking for Wisdom / Wind&Bones, you have that option. There's no suggested donation: it's entirely up to you!
+Finally, there's no paid subscription tier any more. But if you appreciate the newsletter and want to donate to what we do at Looking for Wisdom / Wind&Bones, you have that option. There's no suggested donation: it's entirely up to you!
 
 ### Projects, projects, projects...
-All of this frees us up to think more about projects. 
+All of this frees us up to think more about projects. We have a few things in the works. In February, we're running a session with the brilliant [Premise Institute](/projects/premise-institute/) over in Portland, Oregon, talking about strangers, philosophy and the art of connection.
 
-We have a few things in the works. In February, we're running a session with the brilliant [Premise Institute](/projects/premise-institute/) over in Portland, Oregon, running a session on strangers, philosophy and the art of connection.
-
-We're also soon to announce a project that is close to our heart, which will bring together literature and philosophy, and writers from China and the UK. More on this in January! And we're talking with friends in Edinburgh about running some sessions on philosophy for social change down there.
+We're also just about to announce a project that is close to our heart, which will bring together literature and philosophy, and writers from China and the UK. This is super-exciting, but is currently embargoes. So more on this in January! And more recently, we've started talking with friends from a brilliant organisation in Edinburgh about running some face-to-face sessions on philosophy for social change down there.
 
 ### Summing up...
 So that's where we are! We hope you like the new look. We're delighted with it, and confident that in this way, Looking for Wisdom can continue to thrive long into the future. 
