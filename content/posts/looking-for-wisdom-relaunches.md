@@ -11,7 +11,7 @@ title = "Looking for Wisdom: A New Look"
 
 +++
 
-### Time for a Change:
+### Time for a Change
 
 It's been two years since I started Looking for Wisdom, along with my [Wind&Bones](https://www.windandbones.com) collaborator, Hannah Stevens. We set up the site when deep in the middle of Covid lockdown in Sofia, Bulgaria. We had time on our hands, the world seemed even more deeply puzzling than usual (as Aristotle points out in the *Metaphysics*, wonder or *thaumazein* is often a spur to philosophising), and we thought it would be fun to set up a philosophy newsletter.
 
@@ -50,10 +50,10 @@ The resulting website is at least as pretty as before. It also doesn't depend on
 
 Now that we've made these changes, we've got lots of new content in the works. So we're going to keep updating the website over the coming months and years, but on a slightly less demanding schedule than before.
 
-### Relaunching the newsletter
-Until now at Looking for Wisdom, when we posted new content on the site, by default it would automatically go out to subscribers. But for this relaunch, we wanted to separate out the website and the newsletter, recognising that websites and newsletters are different kinds of beasts. We're using the website for more enduring content, and the newsletter for more fleeting, time-sensitive content. 
+---
 
-The newsletter now runs using [Buttondown](https://buttondown.email/). We love their ethos, the price is great, deliverability is excellent, and we can write our newsletters in Markdown. The overall cost is $90 a year, which is pretty much our only ongoing running cost. If you are a subscriber, you will have already been moved over to the new newsletter. If not, you can sign up here.
+### Relaunching the newsletter
+Until now at Looking for Wisdom, when we posted new content on the site, by default it would automatically go out to subscribers. But for this relaunch, we wanted to separate out the website and the newsletter, recognising that websites and newsletters are different kinds of beasts. We're using the website for more enduring content, and the newsletter for more fleeting, time-sensitive content.
 
 <div class="hero__subscribe">
 <form class="subscribe-form validate" action="https://buttondown.email/api/emails/embed-subscribe/lookingforwisdom" method="post" target="popupwindow"  onsubmit="window.open('https://buttondown.email/lookingforwisdom', 'popupwindow')"
@@ -68,12 +68,18 @@ The newsletter now runs using [Buttondown](https://buttondown.email/). We love t
             </form>
 </div>
 
+The newsletter now runs using [Buttondown](https://buttondown.email/). We love their ethos, the price is great, deliverability is excellent, and we can write our newsletters in Markdown. The overall cost is $90 a year, which is pretty much our only ongoing running cost. If you are a subscriber, you will have already been moved over to the new newsletter. If not, you can sign up here.
+
 Finally, there's no paid subscription tier any more. But if you appreciate the newsletter and want to donate to what we do at Looking for Wisdom / Wind&Bones, you have that option. There's no suggested donation: it's entirely up to you!
+
+---
 
 ### Projects, projects, projects...
 All of this frees us up to think more about projects. We have a few things in the works. In February, we're running a session with the brilliant [Premise Institute](/projects/premise-institute/) over in Portland, Oregon, talking about strangers, philosophy and the art of connection.
 
 We're also just about to announce a project that is close to our heart, which will bring together literature and philosophy, and writers from China and the UK. This is super-exciting, but is currently embargoes. So more on this in January! And more recently, we've started talking with friends from a brilliant organisation in Edinburgh about running some face-to-face sessions on philosophy for social change down there.
+
+---
 
 ### Summing up...
 So that's where we are! We hope you like the new look. We're delighted with it, and confident that in this way, Looking for Wisdom can continue to thrive long into the future. 
