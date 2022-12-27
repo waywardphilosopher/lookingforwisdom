@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseURL = "https://www.lookingforwisdom.com"
+baseURL = "https://lookingforwisdom.com"
 languageCode = "en-us"
 title = "Looking for Wisdom"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
