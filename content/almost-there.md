@@ -1,6 +1,6 @@
 ---
 title: Almost there!
-image: '/images/waymarker.jpg'
+image: ''
 ---
 Thank you for signing up! You are almost there. All you need to do now is check your email, and click the confirmation link. Then you're good to go.
 
