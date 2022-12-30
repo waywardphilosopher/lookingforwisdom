@@ -1,5 +1,5 @@
 [build]
-  command = "npm install && hugo"
+  command = "npm install && npm run deploy"
   publish = "public"
 
 [build.environment]
