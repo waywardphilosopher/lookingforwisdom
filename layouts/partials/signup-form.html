@@ -1,16 +1,6 @@
-            <div class="hero__subscribe">
-              <form class="subscribe-form validate"
-              action="https://buttondown.email/api/emails/embed-subscribe/lookingforwisdom"
-              method="post"
-              target="popupwindow"
-              onsubmit="window.open('https://buttondown.email/lookingforwisdom', 'popupwindow')"
-              class="embeddable-buttondown-form"
-            >
-              <label class="screen-reader-text" for="bd-email">Enter your email</label>
-              <input class="subscribe-email required email" id="mce-EMAIL" type="email" name="email" id="bd-email" placeholder="Your email"/>
-              <input class="button button--primary button--small subscribe-button" id="membedded-subscribe" type="submit" value="Subscribe" />
-              <p class="greyout">
-                Emails sent using Buttondown newsletter. You can unsubscribe at any time.
-              </p>
-            </form>
-            </div>
+<div class="hero__subscribe">
+  <form class="subscribe-form validate" name="signup"  method="POST" data-netlify="true" action="/almost-there">
+    <input class="subscribe-email required email" name="email" id="email" type="email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter your Email'" placeholder="Enter your Email">
+    <button type="submit" class="button button--primary button--small subscribe-button">Subscribe</button>
+  </form>
+</div> 
