@@ -5,7 +5,7 @@ languageCode = "en-us"
 title = "Looking for Wisdom"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 paginate = 6
-
+enableRobotsTXT = true
 
 [params]
   logo = "" # You can add own logo. For example "/images/logo.png".
