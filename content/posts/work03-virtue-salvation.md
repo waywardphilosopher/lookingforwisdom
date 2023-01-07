@@ -1,11 +1,10 @@
 +++
 categories = ["Series"]
 date = 2021-05-17T10:00:00Z
-description = ""
 draft = false
 image = "/images/haymaking.jpg"
 slug = "work03-virtue-salvation"
-summary = "Work, according to Thomas Carlyle, is a purifying fire that saves us from all vices. But is Carlyle right? And is work really a path to virtue?"
+description = "Work, according to Thomas Carlyle, is a purifying fire that saves us from all vices. But is Carlyle right? And is work really a path to virtue?"
 tags = ["Series"]
 title = "The Goodness of Work: Virtue, work, and salvation (Work #3)"
 

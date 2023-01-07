@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2022-01-20T10:00:00Z
-description = ""
 draft = false
 image = "/images/horse.jpg"
 slug = "jaimini"
-summary = "The Indian philosopher Jaimini, founder of the Mīmāṃsā tradition, on why religious ritual is its own justification."
+description = "The Indian philosopher Jaimini, founder of the Mīmāṃsā tradition, on why religious ritual is its own justification."
 tags = ["Philosopher Files"]
 title = "Justifying Ritual with Jaimini"
 

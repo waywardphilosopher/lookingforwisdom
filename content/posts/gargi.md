@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2020-11-26T11:00:00Z
-description = ""
 draft = false
 image = "/images/fire-vedic.jpg"
 slug = "gargi"
-summary = "Gārgī Vācaknavī was a philosopher who is said to have lived in India around 700 BCE, and whose skill in debate was legendary."
+description = "Gārgī Vācaknavī was a philosopher who is said to have lived in India around 700 BCE, and whose skill in debate was legendary."
 tags = ["Philosopher Files"]
 title = "Gārgī Vācaknavī, the Eloquent Philosopher"
 

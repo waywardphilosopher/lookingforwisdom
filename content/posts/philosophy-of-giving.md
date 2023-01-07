@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-11-11T10:00:00Z
-description = ""
 draft = false
 image = "/images/coles.jpeg"
 slug = "philosophy-of-giving"
-summary = "Christmas is on the way, and you are facing your biggest philosophical challenge of the year: what gift do you get for a man like Uncle Pedro?"
+description = "Christmas is on the way, and you are facing your biggest philosophical challenge of the year: what gift do you get for a man like Uncle Pedro?"
 tags = ["Philosopher Files"]
 title = "The Philosophy of Giving"
 

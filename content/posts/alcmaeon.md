@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-03-11T11:00:00Z
-description = ""
 draft = false
 image = "images/asclepius.jpg"
 slug = "alcmaeon"
-summary = "What does it mean to be sick or well? What is health? The Greek doctor and philosopher Alcmaeon, who came from the city of Croton, was one of the earliest thinkers to systematically address questions of health and illness.  "
+description = "What does it mean to be sick or well? What is health? The Greek doctor and philosopher Alcmaeon, who came from the city of Croton, was one of the earliest thinkers to systematically address questions of health and illness.  "
 tags = ["Philosopher Files"]
 title = "Alcmaeon of Croton, the First Philosopher of Medicine"
 

@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-04-22T10:00:00Z
-description = ""
 draft = false
 image = "/images/Democritus.jpg"
 slug = "democritus"
-summary = "Democritus and his teacher Leucippus were the first philosophers to propose that all things were made up of the joining-together of imperceptible atoms. "
+description = "Democritus and his teacher Leucippus were the first philosophers to propose that all things were made up of the joining-together of imperceptible atoms. "
 tags = ["Philosopher Files"]
 title = "Democritus and Reasons to be Cheerful"
 

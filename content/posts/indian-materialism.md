@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-09-09T10:00:00Z
-description = ""
 draft = false
 image = "/images/brhaspati.jpg"
 slug = "indian-materialism"
-summary = "We often assume that Indian philosophy is somehow inherently “spiritual”. But India's long tradition of Cārvāka materialist philosophy suggests otherwise."
+description = "We often assume that Indian philosophy is somehow inherently “spiritual”. But India's long tradition of Cārvāka materialist philosophy suggests otherwise."
 tags = ["Philosopher Files"]
 title = "Not the Mystical East: India's Long Tradition of Materialism"
 

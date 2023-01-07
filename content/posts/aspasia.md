@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2020-11-04T12:10:00Z
-description = ""
 draft = false
 image = "/images/Aspasia-Socrates.jpg"
 slug = "aspasia"
-summary = "Along with Diotima, Aspasia was one of the two women philosophers whom Plato recognised as a teacher of Socrates. Her biography is subject to debate, but she is still famous for her knowledge of rhetoric and her skill in debate."
+description = "Along with Diotima, Aspasia was one of the two women philosophers whom Plato recognised as a teacher of Socrates. Her biography is subject to debate, but she is still famous for her knowledge of rhetoric and her skill in debate."
 tags = ["Philosopher Files"]
 title = "Aspasia, the Philosopher Who Taught Socrates Rhetoric"
 

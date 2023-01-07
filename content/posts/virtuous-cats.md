@@ -1,11 +1,10 @@
 +++
 categories = ["Blogs"]
 date = 2020-11-22T13:01:27Z
-description = ""
 draft = false
 image = "/images/Randolph_Caldecott_collection-page_0030.jpg"
 slug = "virtuous-cats"
-summary = "John Gray's Feline Philosophy, Daoism and a medieval Chinese debate on the virtues of cats."
+description = "John Gray's Feline Philosophy, Daoism and a medieval Chinese debate on the virtues of cats."
 tags = ["Blogs"]
 title = "On the Virtues of Cats"
 

@@ -1,11 +1,10 @@
 +++
 categories = ["Series"]
 date = 2021-01-18T11:00:00Z
-description = ""
 draft = false
 image = "/images/owl-finch.jpg"
 slug = "wisdom03-the-limits-of-wisdom"
-summary = "In this week's class, we're exploring the limits of wisdom, and we're looking at two very different philosophers, one from the European tradition, and one from the Chinese tradition: Socrates and Zhuangzi."
+description = "In this week's class, we're exploring the limits of wisdom, and we're looking at two very different philosophers, one from the European tradition, and one from the Chinese tradition: Socrates and Zhuangzi."
 tags = ["Series"]
 title = "The Limits of Wisdom (Wisdom #3)"
 

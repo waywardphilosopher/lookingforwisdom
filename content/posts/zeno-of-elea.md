@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-05-20T10:00:00Z
-description = ""
 draft = false
 image = "/images/zeno-elea.jpeg"
 slug = "zeno-of-elea"
-summary = "Zeno of Elea was famous for his paradoxes, which have fascinated and preoccupied people for millennia."
+description = "Zeno of Elea was famous for his paradoxes, which have fascinated and preoccupied people for millennia."
 tags = ["Philosopher Files"]
 title = "Zeno of Elea on Why Change is an Illusion"
 

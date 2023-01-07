@@ -1,11 +1,10 @@
 +++
 categories = ["Series"]
 date = 2021-02-01T11:00:00Z
-description = ""
 draft = false
 image = "/images/cultivation.jpg"
 slug = "wisdom05-nurturing-the-sprouts"
-summary = "For Mencius and Aristotle, wisdom involves the cultivation of virtues. But how do we do thi, and how do we build a society that supports this cultivation?"
+description = "For Mencius and Aristotle, wisdom involves the cultivation of virtues. But how do we do thi, and how do we build a society that supports this cultivation?"
 tags = ["Series"]
 title = "Nurturing the Sprouts of Wisdom (Wisdom #5)"
 

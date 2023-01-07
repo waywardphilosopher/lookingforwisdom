@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-07-08T10:00:00Z
-description = ""
 draft = false
 image = "/images/Blowing_on_maize.jpg"
 slug = "aztec-philosophy"
-summary = "Aztec philosophy tells us that the world is slippery, and that if we don't want to lose our footing, we need all the wisdom we can get."
+description = "Aztec philosophy tells us that the world is slippery, and that if we don't want to lose our footing, we need all the wisdom we can get."
 tags = ["Philosopher Files"]
 title = "Aztec Philosophy and the Slipperiness of the World"
 

@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-05-13T10:00:00Z
-description = ""
 draft = false
 image = "/images/madrid-codex.jpg"
 slug = "maya-philosophy"
-summary = "The Maya philosophers were preoccupied with time, and with how the ritual ordering of time is a way that human beings participate in the ongoing creation of the world."
+description = "The Maya philosophers were preoccupied with time, and with how the ritual ordering of time is a way that human beings participate in the ongoing creation of the world."
 tags = ["Philosopher Files"]
 title = "Maya Philosophy, and How to Give Shape to Time"
 

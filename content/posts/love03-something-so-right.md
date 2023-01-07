@@ -1,11 +1,10 @@
 +++
 categories = ["Series"]
 date = 2021-03-15T17:32:50Z
-description = ""
 draft = false
 image = "/images/triumph-of-love.jpg"
 slug = "love03-something-so-right"
-summary = "What are the limits of human love? Can we love everyone? Or should we only focus on those closest to us? And what happens when our personal loves and commitments come into contact with impersonal questions of justice?"
+description = "What are the limits of human love? Can we love everyone? Or should we only focus on those closest to us? And what happens when our personal loves and commitments come into contact with impersonal questions of justice?"
 tags = ["Series"]
 title = "Something So Right: Love and Justice (Love #3)"
 

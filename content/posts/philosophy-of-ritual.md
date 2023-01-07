@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-10-14T10:00:00Z
-description = ""
 draft = false
 image = "/images/confucius-teaching.jpg"
 slug = "philosophy-of-ritual"
-summary = "Getting philosophical about ritual, from Confucius and spirit sacrifice in Ancient China to the everyday miracle of shaking hands. "
+description = "Getting philosophical about ritual, from Confucius and spirit sacrifice in Ancient China to the everyday miracle of shaking hands. "
 tags = ["Philosopher Files"]
 title = "It's a Kind of Magic: The Philosophy of Ritual"
 

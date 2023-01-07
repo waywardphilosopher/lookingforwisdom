@@ -1,11 +1,10 @@
 +++
 categories = ["Interviews"]
 date = 2021-08-26T10:00:00Z
-description = ""
 draft = false
 image = "/images/birmann.jpeg"
 slug = "sophie-grace-chappell"
-summary = "An interview with Sophie Grace Chappell about philosophy, following your deepest impulses, and why mountain climbing is not unlike philosophy."
+description = "An interview with Sophie Grace Chappell about philosophy, following your deepest impulses, and why mountain climbing is not unlike philosophy."
 tags = ["Interviews"]
 title = "Sophie Grace Chappell on Plato and the Moral Imagination"
 

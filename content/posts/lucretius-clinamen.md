@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2022-05-26T10:00:00Z
-description = ""
 draft = false
 image = "/images/venus.jpeg"
 slug = "lucretius-clinamen"
-summary = "Lucretius, the Roman poet and philosopher, on free will, creativity and the mysterious swerve of an atom."
+description = "Lucretius, the Roman poet and philosopher, on free will, creativity and the mysterious swerve of an atom."
 tags = ["Philosopher Files"]
 title = "Lucretius on Chance, Necessity and Free Will"
 

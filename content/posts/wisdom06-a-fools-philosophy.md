@@ -1,11 +1,10 @@
 +++
 categories = ["Series"]
 date = 2021-02-08T11:00:00Z
-description = ""
 draft = false
 image = "/images/circus-poster.jpg"
 slug = "wisdom06-a-fools-philosophy"
-summary = "Philosophy is the love of wisdom. But throughout its history, philosophy has also been haunted by wisdom's opposite: foolishness. So what is the relationship between philosophy and foolishness?"
+description = "Philosophy is the love of wisdom. But throughout its history, philosophy has also been haunted by wisdom's opposite: foolishness. So what is the relationship between philosophy and foolishness?"
 tags = ["Series"]
 title = "The Opposite of Wisdom: A Fool's Philosophy  (Wisdom #6)"
 

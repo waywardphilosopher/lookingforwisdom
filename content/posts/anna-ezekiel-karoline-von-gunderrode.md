@@ -1,11 +1,10 @@
 +++
 categories = ["Interviews"]
 date = 2021-01-14T11:00:00Z
-description = ""
 draft = false
 image = "/images/Sarah--painting.jpg"
 slug = "anna-ezekiel-karoline-von-gunderrode"
-summary = "Philosopher Anna Ezekiel talks about Karoline von Günderrode, and about the German philosopher's distinctive philosophy of free will, identity and death."
+description = "Philosopher Anna Ezekiel talks about Karoline von Günderrode, and about the German philosopher's distinctive philosophy of free will, identity and death."
 tags = ["Interviews"]
 title = "Anna Ezekiel on Günderrode, Identity and Doing Philosophy Differently"
 

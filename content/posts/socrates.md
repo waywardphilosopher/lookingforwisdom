@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2020-10-29T09:00:00Z
-description = ""
 draft = false
 image = "/images/islamic-manuscript.jpg"
 slug = "socrates"
-summary = "Socrates lived in Athens in the 5th Century BCE. He was the archetypal philosopher: a restless seeker after wisdom, a thorn in the side of the intelligentsia of Athens, a copious drinker, and a thinker who claimed that when it came down to it, he knew nothing at all."
+description = "Socrates lived in Athens in the 5th Century BCE. He was the archetypal philosopher: a restless seeker after wisdom, a thorn in the side of the intelligentsia of Athens, a copious drinker, and a thinker who claimed that when it came down to it, he knew nothing at all."
 tags = ["Philosopher Files"]
 title = "Socrates, Philosophical Trouble-Maker"
 

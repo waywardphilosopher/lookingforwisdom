@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-11-18T10:00:00Z
-description = ""
 draft = false
 image = "/images/Les_Tre-s_Riches_Heures_du_duc_de_Berry_Janvier-2--1-.jpeg"
 slug = "the-tastiness-of-the-gift"
-summary = "An alternative theory of gift-giving, drawing on philosophy from the Tanimbar islands of Indonesia, and from the philosophical traditions of India."
+description = "An alternative theory of gift-giving, drawing on philosophy from the Tanimbar islands of Indonesia, and from the philosophical traditions of India."
 tags = ["Philosopher Files"]
 title = "The Tastiness of the Gift"
 

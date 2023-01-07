@@ -1,11 +1,10 @@
 +++
 categories = ["Series"]
 date = 2021-05-31T10:00:00Z
-description = ""
 draft = false
 image = "/images/idlehours.jpg"
 slug = "work05-all-about-idleness"
-summary = "Is idleness a bad thing? Or does taking idleness more seriously offer us new possibilities for human liberation?"
+description = "Is idleness a bad thing? Or does taking idleness more seriously offer us new possibilities for human liberation?"
 tags = ["Series"]
 title = "The Opposite of Work? All About Idleness (Work #5)"
 

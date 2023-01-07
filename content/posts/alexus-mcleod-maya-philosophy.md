@@ -1,11 +1,10 @@
 +++
 categories = ["Interviews"]
 date = 2021-03-04T11:00:00Z
-description = ""
 draft = false
 image = "/images/alexus-mcleod.jpg"
 slug = "alexus-mcleod-maya-philosophy"
-summary = "Questions of time, ritual and identity lie at the heart of Maya philosophical traditions. Find out more in our fascinating interview with Alexus McLeod."
+description = "Questions of time, ritual and identity lie at the heart of Maya philosophical traditions. Find out more in our fascinating interview with Alexus McLeod."
 tags = ["Interviews"]
 title = "Alexus McLeod on Maya Philosophy"
 

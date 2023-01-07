@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-03-18T11:00:00Z
-description = ""
 draft = false
 image = "/images/laozi.jpg"
 slug = "laozi"
-summary = "The legendary Chinese philosopher Laozi is associated with the long tradition of Daoism (or Taoism). But his work is famously elliptical and difficult. "
+description = "The legendary Chinese philosopher Laozi is associated with the long tradition of Daoism (or Taoism). But his work is famously elliptical and difficult. "
 tags = ["Philosopher Files"]
 title = "Finding Our Way With Laozi"
 

@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-08-19T10:00:00Z
-description = ""
 draft = false
 image = "/images/Aristotle.jpg"
 slug = "aristotle-on-flourishing"
-summary = "Aristotle argued that the end or purpose of human life was flourishing. But what is flourishing? And how do we flourish?"
+description = "Aristotle argued that the end or purpose of human life was flourishing. But what is flourishing? And how do we flourish?"
 tags = ["Philosopher Files"]
 title = "Aristotle on Flourishing"
 

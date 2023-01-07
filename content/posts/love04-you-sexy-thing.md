@@ -1,11 +1,10 @@
 +++
 categories = ["Series"]
 date = 2021-03-22T11:00:00Z
-description = ""
 draft = false
 image = "/images/nepal-erotic.jpg"
 slug = "love04-you-sexy-thing"
-summary = "In this week's class, we are getting philosophical about desire, and asking questions about the philosophy of sex. Happy reading!"
+description = "In this week's class, we are getting philosophical about desire, and asking questions about the philosophy of sex. Happy reading!"
 tags = ["Series"]
 title = "You Sexy Thing: Getting philosophical about sex (Love #4)"
 

@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2022-01-27T10:00:00Z
-description = ""
 draft = false
 image = "/images/No_Questions.jpg"
 slug = "carneades"
-summary = "The philosopher Carneades advocated giving up on ideas of truth and the good life, arguing that we should focus instead on what is plausible."
+description = "The philosopher Carneades advocated giving up on ideas of truth and the good life, arguing that we should focus instead on what is plausible."
 tags = ["Philosopher Files"]
 title = "Sounds Plausible? The Philosophy of Carneades"
 

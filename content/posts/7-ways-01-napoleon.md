@@ -1,11 +1,10 @@
 +++
 categories = ["Series"]
 date = 2021-03-19T11:30:32Z
-description = ""
 draft = false
 image = "/images/napoleon.jpg"
 slug = "7-ways-01-napoleon"
-summary = "Often the advice is that we should read philosophy slowly and carefully. But there's a lot to be said for reading at a gallop."
+description = "Often the advice is that we should read philosophy slowly and carefully. But there's a lot to be said for reading at a gallop."
 tags = ["Series"]
 title = "7 Ways of Reading Philosophy: #1 Reading Like Napoleon"
 

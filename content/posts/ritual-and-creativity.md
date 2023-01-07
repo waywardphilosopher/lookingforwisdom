@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-10-21T10:00:00Z
-description = ""
 draft = false
 image = "/images/shaping-the-world.jpg"
 slug = "ritual-and-creativity"
-summary = "According to both philosophers of Ancient China and those of the Ancient Maya world, ritual has a powerful role to play in shaping ourselves - and the world. "
+description = "According to both philosophers of Ancient China and those of the Ancient Maya world, ritual has a powerful role to play in shaping ourselves - and the world. "
 tags = ["Philosopher Files"]
 title = "Ritual Shapes the World"
 

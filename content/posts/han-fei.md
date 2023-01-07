@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2022-02-24T10:00:00Z
-description = ""
 draft = false
 image = "/images/La-Justice.jpg"
 slug = "han-fei"
-summary = "For the philosopher Han Fei, the ultimate form of charisma was to have no charisma. His ideas were instrumental in cementing the power of Qin Shihuang, the First Emperor."
+description = "For the philosopher Han Fei, the ultimate form of charisma was to have no charisma. His ideas were instrumental in cementing the power of Qin Shihuang, the First Emperor."
 tags = ["Philosopher Files"]
 title = "The Charisma of No-Charisma: Han Fei, Law, and the Art of Politics"
 

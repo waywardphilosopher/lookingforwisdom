@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2020-12-17T11:00:00Z
-description = ""
 draft = false
 image = "/images/parmenides.jpg"
 slug = "parmenides"
-summary = "Parmenides is one of the most elusive and enigmatic of all early Greek philosophers. Could he really have been arguing that nothing ever changed? And if so, why?"
+description = "Parmenides is one of the most elusive and enigmatic of all early Greek philosophers. Could he really have been arguing that nothing ever changed? And if so, why?"
 tags = ["Philosopher Files"]
 title = "Parmenides on Truth and Opinion"
 

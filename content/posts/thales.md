@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2020-10-29T11:57:00Z
-description = ""
 draft = false
 image = "/images/Thales.jpg"
 slug = "thales"
-summary = "Thales of Miletus has some claim to being the very earliest philosopher in the Greek world. He is famous for his claim that everything is made of water.  As well as being a philosopher, he was an engineer, an astronomer, and an astute observer of the natural world."
+description = "Thales of Miletus has some claim to being the very earliest philosopher in the Greek world. He is famous for his claim that everything is made of water.  As well as being a philosopher, he was an engineer, an astronomer, and an astute observer of the natural world."
 tags = ["Philosopher Files"]
 title = "Thales of Miletus on Appearance and Reality"
 

@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-01-21T11:00:00Z
-description = ""
 draft = false
 image = "/images/anaxagoras.jpg"
 slug = "anaxagoras"
-summary = "The Presocratic philosophers are famously strange and difficult; but of all of them, Anaxagoras, who saw the universe as essentially gunky, is one of the strangest. "
+description = "The Presocratic philosophers are famously strange and difficult; but of all of them, Anaxagoras, who saw the universe as essentially gunky, is one of the strangest. "
 tags = ["Philosopher Files"]
 title = "Anaxagoras on the Gunkiness of Reality"
 

@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-09-23T10:00:00Z
-description = ""
 draft = false
 image = "/images/Hipparchia-and-crates.jpg"
 slug = "hipparchia"
-summary = "The Cynic philosopher Hipparchia defied social convention, in pursuit of a life free of hypocrisy and privilege."
+description = "The Cynic philosopher Hipparchia defied social convention, in pursuit of a life free of hypocrisy and privilege."
 tags = ["Philosopher Files"]
 title = "Hipparchia: Philosophy as Comedy"
 

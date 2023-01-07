@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-07-15T10:00:00Z
-description = ""
 draft = false
 image = "/images/crooked-timber.jpeg"
 slug = "xunzi"
-summary = "Xunzi was a Confucian philosopher who argued human beings were bad by nature. He advocated self-cultivation to correct our natural shortcomings."
+description = "Xunzi was a Confucian philosopher who argued human beings were bad by nature. He advocated self-cultivation to correct our natural shortcomings."
 tags = ["Philosopher Files"]
 title = "Xunzi on Crafting Ourselves"
 

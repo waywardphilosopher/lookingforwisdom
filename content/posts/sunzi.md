@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-02-18T11:00:00Z
-description = ""
 draft = false
 image = "/images/Guerrero_de_Terracota_-15730544471-.jpg"
 slug = "sunzi"
-summary = "Sunzi's \"The Art of War\" is an ancient Chinese text that has become famous worldwide for its insights into strategy. Even today, it is still a go-to reference for military and business leaders. "
+description = "Sunzi's \"The Art of War\" is an ancient Chinese text that has become famous worldwide for its insights into strategy. Even today, it is still a go-to reference for military and business leaders. "
 tags = ["Philosopher Files"]
 title = "Sunzi's Way of Deceit"
 

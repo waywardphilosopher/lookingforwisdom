@@ -1,11 +1,10 @@
 +++
 categories = ["Series"]
 date = 2021-01-11T11:00:00Z
-description = ""
 draft = false
 image = "/images/Russian_Wonder_Tales_329.jpg"
 slug = "wisdom02-navigating-wisdom"
-summary = "In this class, we're exploring Aristotle's ideas of theoretical and practical wisdom, heading on perilous Atlantic sea voyages, and asking about what it means not just to know stuff, but also to act wisely."
+description = "In this class, we're exploring Aristotle's ideas of theoretical and practical wisdom, heading on perilous Atlantic sea voyages, and asking about what it means not just to know stuff, but also to act wisely."
 tags = ["Series"]
 title = "Navigating Wisdom with Aristotle (Wisdom #2)"
 

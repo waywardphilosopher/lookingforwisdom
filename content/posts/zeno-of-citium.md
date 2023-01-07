@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-09-16T10:00:00Z
-description = ""
 draft = false
 image = "/images/zeno-citium.jpeg"
 slug = "zeno-of-citium"
-summary = "Stoicism was one of the most influential philosophical schools in the ancient Greek and Roman worlds. And the first Stoic philosopher was Zeno of Citium."
+description = "Stoicism was one of the most influential philosophical schools in the ancient Greek and Roman worlds. And the first Stoic philosopher was Zeno of Citium."
 tags = ["Philosopher Files"]
 title = "Zeno of Citium and the Challenge of Living Naturally"
 

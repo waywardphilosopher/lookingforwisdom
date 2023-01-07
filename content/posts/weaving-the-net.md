@@ -1,11 +1,10 @@
 +++
 categories = ["Blogs"]
 date = 2021-02-16T16:27:15Z
-description = ""
 draft = false
 image = "/images/loom-taiwan-1.jpg"
 slug = "weaving-the-net"
-summary = "Three stories of women philosophers in the ancient world weaving arguments to challenge their male contemporaries. Gārgī Vācaknavī in India, Hipparchia in Greece, and Jing Jiang in China."
+description = "Three stories of women philosophers in the ancient world weaving arguments to challenge their male contemporaries. Gārgī Vācaknavī in India, Hipparchia in Greece, and Jing Jiang in China."
 tags = ["Blogs"]
 title = "Weaving the Net of Argument"
 

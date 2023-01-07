@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2020-11-10T09:24:00Z
-description = ""
 draft = false
 image = "/images/1922.2664---Head-of-Pythagoras.jpg"
 slug = "pythagoras"
-summary = "Pythagoras was the first philosopher to talk about 'philosophia', or 'the love of wisdom.'  He set up a philosophical community where he taught the transmigration of souls, and the centrality of mathematics for an understanding of the universe.  "
+description = "Pythagoras was the first philosopher to talk about 'philosophia', or 'the love of wisdom.'  He set up a philosophical community where he taught the transmigration of souls, and the centrality of mathematics for an understanding of the universe.  "
 tags = ["Philosopher Files"]
 title = "The Secret Teachings of Pythagoras"
 

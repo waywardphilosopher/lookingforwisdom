@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2022-02-10T10:00:00Z
-description = ""
 draft = false
 image = "/images/Shanglin_Park-1.jpg"
 slug = "zou-yan"
-summary = "The Chinese philosopher Zou Yan is credited with developing theories of Yin and Yang."
+description = "The Chinese philosopher Zou Yan is credited with developing theories of Yin and Yang."
 tags = ["Philosopher Files"]
 title = "Zou Yan, Yin and Yang, and the Nature of Change"
 

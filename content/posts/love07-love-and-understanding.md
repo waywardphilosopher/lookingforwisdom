@@ -1,11 +1,10 @@
 +++
 categories = ["Series"]
 date = 2021-04-12T13:00:00Z
-description = ""
 draft = false
 image = "/images/sophia-engraving.jpg"
 slug = "love07-love-and-understanding"
-summary = "Is philosophy the love of wisdom? Or is it, as some philosophers have suggested, the wisdom of love? And what do love and wisdom have to do with each other anyway?"
+description = "Is philosophy the love of wisdom? Or is it, as some philosophers have suggested, the wisdom of love? And what do love and wisdom have to do with each other anyway?"
 tags = ["Series"]
 title = "\"Love and Understanding\": The tangle of love and wisdom (Love #7)"
 

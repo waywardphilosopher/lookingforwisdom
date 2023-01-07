@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2022-04-21T10:00:00Z
-description = ""
 draft = false
 image = "/images/Solen_av_Edvard_Munch.jpg"
 slug = "nyaya"
-summary = "For the philosophers of the Nyāya school, the role of knowledge was to make effective action possible. "
+description = "For the philosophers of the Nyāya school, the role of knowledge was to make effective action possible. "
 tags = ["Philosopher Files"]
 title = "Knowing, Doing, and Doubting: Nyāya Philosophy"
 

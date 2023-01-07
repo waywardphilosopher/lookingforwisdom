@@ -1,11 +1,10 @@
 +++
 categories = ["Series"]
 date = 2021-06-14T10:00:00Z
-description = ""
 draft = false
 image = "/images/work-office.jpg"
 slug = "work07-the-future"
-summary = "In our final class, we're looking back at the last six weeks, and looking forward to ask about the future of work."
+description = "In our final class, we're looking back at the last six weeks, and looking forward to ask about the future of work."
 tags = ["Series"]
 title = "The Future of Work (Work #7)"
 

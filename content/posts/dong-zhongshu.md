@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2022-03-31T10:00:00Z
-description = ""
 draft = false
 image = "/images/black-swan.jpg"
 slug = "dong-zhongshu"
-summary = "Dong Zhongshu was a thinker fascinated by the role of chance events in human history."
+description = "Dong Zhongshu was a thinker fascinated by the role of chance events in human history."
 tags = ["Philosopher Files"]
 title = "Dong Zhongshu's Tales of the Unexpected"
 

@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-08-05T10:00:00Z
-description = ""
 draft = false
 image = "/images/happy-fish-1.jpg"
 slug = "hui-shi"
-summary = "The Chinese philosopher Hui Shi (370-310 BCE) was famed for his logical puzzles, and his skill in debate. "
+description = "The Chinese philosopher Hui Shi (370-310 BCE) was famed for his logical puzzles, and his skill in debate. "
 tags = ["Philosopher Files"]
 title = "Hui Shi and the Power of Analogy"
 

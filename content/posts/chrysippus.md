@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-11-04T12:00:00Z
-description = ""
 draft = false
 image = "/images/melancholy.jpg"
 slug = "chrysippus"
-summary = "The philosopher Chrysippus believed that emotions are not things that happen to us, but things that we do. This means that we can bring emotion under the control of reason."
+description = "The philosopher Chrysippus believed that emotions are not things that happen to us, but things that we do. This means that we can bring emotion under the control of reason."
 tags = ["Philosopher Files"]
 title = "Chrysippus on How to Manage Our Emotions"
 

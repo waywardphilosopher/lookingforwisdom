@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-07-01T10:00:00Z
-description = ""
 draft = false
 image = "/images/daoist-mountain.jpeg"
 slug = "zhuangzi"
-summary = "The ancient Chinese philosopher who advocated uselessness and free-and-easy wandering."
+description = "The ancient Chinese philosopher who advocated uselessness and free-and-easy wandering."
 tags = ["Philosopher Files"]
 title = "Free and Easy Rambling With Zhuangzi"
 

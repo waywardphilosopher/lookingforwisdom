@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-01-07T11:00:00Z
-description = ""
 draft = false
 image = "/images/feast-of-gods.jpg"
 slug = "xenophanes"
-summary = "Xenophanes was a wandering philosopher and poet, who was fiercely critical of his contemporaries' views on the nature of the gods. "
+description = "Xenophanes was a wandering philosopher and poet, who was fiercely critical of his contemporaries' views on the nature of the gods. "
 tags = ["Philosopher Files"]
 title = "Xenophanes on Gods and Horses"
 

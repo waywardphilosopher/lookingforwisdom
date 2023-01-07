@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-04-01T10:00:00Z
-description = ""
 draft = false
 image = "/images/diogenes.jpg"
 slug = "diogenes"
-summary = "Diogenes was the original drop-out philosopher. A fierce critic of the hypocrisy of society, he chose instead to live in accord with nature."
+description = "Diogenes was the original drop-out philosopher. A fierce critic of the hypocrisy of society, he chose instead to live in accord with nature."
 tags = ["Philosopher Files"]
 title = "Living the Life of a Dog with Diogenes the Cynic"
 

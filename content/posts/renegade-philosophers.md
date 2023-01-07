@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2022-02-17T10:00:00Z
-description = ""
 draft = false
 image = "/images/fish-klee.jpeg"
 slug = "renegade-philosophers"
-summary = "Two philosophers from the ancient world who changed their minds: Timocrates the (former) Epicurean, and Dionysius the (former) Stoic."
+description = "Two philosophers from the ancient world who changed their minds: Timocrates the (former) Epicurean, and Dionysius the (former) Stoic."
 tags = ["Philosopher Files"]
 title = "Renegade Philosophers, and the Art of Changing Your Mind"
 

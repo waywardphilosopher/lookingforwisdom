@@ -1,11 +1,10 @@
 +++
 categories = ["Series"]
 date = 2021-01-25T11:00:00Z
-description = ""
 draft = false
 image = "/images/tibetan-medicine.jpg"
 slug = "wisdom04-that-gut-feeling"
-summary = "Wisdom is often seen as an intellectual virtue. But what role does the body have in developing and maintaining wisdom? In this class, we're looking at flesh and spirit, gut feelings, and why wisdom cannot ignore the body. "
+description = "Wisdom is often seen as an intellectual virtue. But what role does the body have in developing and maintaining wisdom? In this class, we're looking at flesh and spirit, gut feelings, and why wisdom cannot ignore the body. "
 tags = ["Series"]
 title = "That Gut Feeling: Wisdom and the body (Wisdom #4)"
 

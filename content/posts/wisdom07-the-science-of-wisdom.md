@@ -1,11 +1,10 @@
 +++
 categories = ["Series"]
 date = 2021-02-15T11:00:00Z
-description = ""
 draft = false
 image = "/images/laboratory.jpg"
 slug = "wisdom07-the-science-of-wisdom"
-summary = "The last few decades have seen a growth in the scientific study of wisdom. But what is the science of wisdom? And what gets left out of these accounts?"
+description = "The last few decades have seen a growth in the scientific study of wisdom. But what is the science of wisdom? And what gets left out of these accounts?"
 tags = ["Series"]
 title = "Giving up on Philosophy? The Science of Wisdom (Wisdom #7)"
 

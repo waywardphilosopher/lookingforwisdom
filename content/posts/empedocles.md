@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-02-11T11:00:00Z
-description = ""
 draft = false
 image = "/images/empedocles.jpg"
 slug = "empedocles"
-summary = "Empedocles was a philosopher, wandering poet and shamanic healer who claimed the entire universe was underpinned by the forces of Love and Strife."
+description = "Empedocles was a philosopher, wandering poet and shamanic healer who claimed the entire universe was underpinned by the forces of Love and Strife."
 tags = ["Philosopher Files"]
 title = "Empedocles on Love and Strife"
 

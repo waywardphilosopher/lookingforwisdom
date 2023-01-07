@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-06-03T10:00:00Z
-description = ""
 draft = false
 image = "/images/s3_V0004000_V0004702.jpg"
 slug = "plato-part-one"
-summary = "Plato is undoubtedly one of the most influential thinkers in all of history. He opened up a series of questions — about philosophy, about knowledge, about truth, about politics and about ethics — that have continued to preoccupy people down to the present-day."
+description = "Plato is undoubtedly one of the most influential thinkers in all of history. He opened up a series of questions — about philosophy, about knowledge, about truth, about politics and about ethics — that have continued to preoccupy people down to the present-day."
 tags = ["Philosopher Files"]
 title = "Plato's Cave, and Escaping the Prison of Ignorance"
 

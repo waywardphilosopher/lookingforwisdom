@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2022-04-14T10:00:00Z
-description = ""
 draft = false
 image = "/images/celestial.jpg"
 slug = "constellations-of-thought"
-summary = "What are the fundamental questions in human life? And how can reading across different traditions enrich our sense of what questions might be fruitful to ask?"
+description = "What are the fundamental questions in human life? And how can reading across different traditions enrich our sense of what questions might be fruitful to ask?"
 tags = ["Philosopher Files"]
 title = "Constellations of Thought: God, Death, and Other Non-Problems"
 

@@ -1,11 +1,10 @@
 +++
 categories = ["Series"]
 date = 2021-03-12T11:40:51Z
-description = ""
 draft = false
 image = "/images/woman-reading.jpg"
 slug = "7-ways-introduction"
-summary = "There are many ways you can read a philosophy book. In this first in a series of blog posts, I'm going to explore what it means to read philosophy differently."
+description = "There are many ways you can read a philosophy book. In this first in a series of blog posts, I'm going to explore what it means to read philosophy differently."
 tags = ["Series"]
 title = "7 Ways of Reading Philosophy: An Introduction"
 

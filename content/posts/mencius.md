@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-06-10T10:00:00Z
-description = ""
 draft = false
 image = "/images/mencius-portrait.jpg"
 slug = "mencius"
-summary = "Mencius was a Confucian philosopher who argued for the inherent goodness of human nature, and who insisted that good government is about nourishing this inherent goodness. "
+description = "Mencius was a Confucian philosopher who argued for the inherent goodness of human nature, and who insisted that good government is about nourishing this inherent goodness. "
 tags = ["Philosopher Files"]
 title = "Mencius and the Sprouts of Virtue"
 

@@ -1,11 +1,10 @@
 +++
 categories = ["News"]
 date = 2022-12-27
-description = ""
 draft = false
 image = "/images/construction.jpg"
 slug = "a-new-look"
-summary = "Looking for Wisdom has been rebuilt from the ground up, and it's looking very pretty indeed!"
+description = "Looking for Wisdom has been rebuilt from the ground up, and it's looking very pretty indeed!"
 tags = ["News"]
 title = "Looking for Wisdom: A New Look"
 

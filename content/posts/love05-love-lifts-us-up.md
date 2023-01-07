@@ -1,11 +1,10 @@
 +++
 categories = ["Series"]
 date = 2021-03-29T11:00:00Z
-description = ""
 draft = false
 image = "/images/eagle.jpeg"
 slug = "love05-love-lifts-us-up"
-summary = "Does love lift us up where we belong? Or is it a kind of madness? In this week's class, we plunge into Plato's Symposium and Phaedrus to find out."
+description = "Does love lift us up where we belong? Or is it a kind of madness? In this week's class, we plunge into Plato's Symposium and Phaedrus to find out."
 tags = ["Series"]
 title = "Love Lifts Us Up Where We Belong? Love, transcendence and madness (Love #5)"
 

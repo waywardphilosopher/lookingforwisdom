@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-06-17T10:00:00Z
-description = ""
 draft = false
 image = "/images/arete.jpg"
 slug = "arete"
-summary = "Arete of Cyrene was an early woman philosopher who was important in the establishment of the Cyrenaic school, which emphasised the centrality of bodily pleasure to the good life."
+description = "Arete of Cyrene was an early woman philosopher who was important in the establishment of the Cyrenaic school, which emphasised the centrality of bodily pleasure to the good life."
 tags = ["Philosopher Files"]
 title = "Arete of Cyrene and the Smooth Motion of the Flesh"
 

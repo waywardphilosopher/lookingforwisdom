@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2020-12-02T08:30:08Z
-description = ""
 draft = false
 image = "/images/plato-organ.jpeg"
 slug = "plato-organist-to-the-beasts"
-summary = "A story from a 13th century Persian text about music, harmony, philosophy, catatonic animals, and the beef between Plato and Aristotle.  "
+description = "A story from a 13th century Persian text about music, harmony, philosophy, catatonic animals, and the beef between Plato and Aristotle.  "
 tags = ["Philosopher Files"]
 title = "Plato: Organist to the Beasts"
 

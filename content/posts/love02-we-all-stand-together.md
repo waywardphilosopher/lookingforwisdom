@@ -1,11 +1,10 @@
 +++
 categories = ["Series"]
 date = 2021-03-08T11:00:00Z
-description = ""
 draft = false
 image = "/images/picnic.jpg"
 slug = "love02-we-all-stand-together"
-summary = "In this week's class, we are exploring Amazonian social philosophies of love and community, and how for social primates, community is fundamental to how we live and love. "
+description = "In this week's class, we are exploring Amazonian social philosophies of love and community, and how for social primates, community is fundamental to how we live and love. "
 tags = ["Series"]
 title = "We All Stand Together: Love, connection and community (Love #2)"
 

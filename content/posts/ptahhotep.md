@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2020-11-05T10:39:00Z
-description = ""
 draft = false
 image = "images/ptahhotep.jpg"
 slug = "ptahhotep"
-summary = "One of history's earliest named philosophers was from Africa. He lived 4500 years ago in Egypt, and his name was Ptahhotep."
+description = "One of history's earliest named philosophers was from Africa. He lived 4500 years ago in Egypt, and his name was Ptahhotep."
 tags = ["Philosopher Files"]
 title = "Ptahhotep and the Emeralds of Wisdom"
 

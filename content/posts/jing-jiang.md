@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2020-12-24T11:00:00Z
-description = ""
 draft = false
 image = "/images/The_Weaver_Girl.jpg"
 slug = "jing-jiang"
-summary = "Jing Jiang is one of the earliest women in Chinese recorded history to engage in philosophical debate. She was a thinker with a keen grasp of politics, and a considerable skill in argument. "
+description = "Jing Jiang is one of the earliest women in Chinese recorded history to engage in philosophical debate. She was a thinker with a keen grasp of politics, and a considerable skill in argument. "
 tags = ["Philosopher Files"]
 title = "Jing Jiang on Politics, Gender and Weaving"
 

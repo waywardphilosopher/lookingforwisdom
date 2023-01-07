@@ -1,11 +1,10 @@
 +++
 categories = ["Series"]
 date = 2021-05-10T10:00:00Z
-description = ""
 draft = false
 image = "/images/timberyard-1.jpeg"
 slug = "work02-the-life-of-activity"
-summary = "The philosopher Hannah Arendt provides an incisive account of work, labour and action. This week, we see how Arendt can help us think better about work."
+description = "The philosopher Hannah Arendt provides an incisive account of work, labour and action. This week, we see how Arendt can help us think better about work."
 tags = ["Series"]
 title = "The Life of Activity: Work, Labour and Action (Work #2)"
 

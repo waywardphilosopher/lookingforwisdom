@@ -1,11 +1,10 @@
 +++
 categories = ["Interviews"]
 date = 2021-12-09T10:00:00Z
-description = ""
 draft = false
 image = "/images/vg-prison.jpg"
 slug = "andy-west"
-summary = "A Looking for Wisdom exclusive interview with philosopher Andy West, about prison, shame, freedom and philosophy."
+description = "A Looking for Wisdom exclusive interview with philosopher Andy West, about prison, shame, freedom and philosophy."
 tags = ["Interviews"]
 title = "Andy West on Philosophy, Prison, Freedom and Shame"
 

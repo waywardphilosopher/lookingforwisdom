@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-04-15T11:15:00Z
-description = ""
 draft = false
 image = "/images/party.jpg"
 slug = "yang-zhu"
-summary = "Yang Zhu was an ancient Chinese philosopher who is associated with hedonism, and with the cultivation of bodily pleasure."
+description = "Yang Zhu was an ancient Chinese philosopher who is associated with hedonism, and with the cultivation of bodily pleasure."
 tags = ["Philosopher Files"]
 title = "Yang Zhu on How to Keep Our Nature Intact"
 

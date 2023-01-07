@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2022-03-10T10:00:00Z
-description = ""
 draft = false
 image = "/images/emily.jpg"
 slug = "ptolemais"
-summary = "Ptolemaïs of Cyrene, the ancient philosopher, and what she can teach us about the art of music."
+description = "Ptolemaïs of Cyrene, the ancient philosopher, and what she can teach us about the art of music."
 tags = ["Philosopher Files"]
 title = "Learning to Play the Piano With Ptolemaïs of Cyrene"
 

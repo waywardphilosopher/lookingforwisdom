@@ -1,11 +1,10 @@
 +++
 categories = ["Series"]
 date = 2021-03-01T11:00:00Z
-description = ""
 draft = false
 image = "/images/owl-bees.jpg"
 slug = "love01-lets-do-it"
-summary = "Welcome to the first lesson in our Season 2 series, taking a global perspective on the philosophy of love."
+description = "Welcome to the first lesson in our Season 2 series, taking a global perspective on the philosophy of love."
 tags = ["Series"]
 title = "Let's Do It: The Philosophy of Love (Love #1)"
 

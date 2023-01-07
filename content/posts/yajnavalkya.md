@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2020-12-10T11:00:00Z
-description = ""
 draft = false
 image = "/images/ascetic.jpg"
 slug = "yajnavalkya"
-summary = "Yājñavalkya is one of the earliest named Indian philosophers. According to traditional accounts, he was a fierce debater, and was preoccupied with the nature of the ātman, or the soul."
+description = "Yājñavalkya is one of the earliest named Indian philosophers. According to traditional accounts, he was a fierce debater, and was preoccupied with the nature of the ātman, or the soul."
 tags = ["Philosopher Files"]
 title = "Yājñavalkya and the Immortal Self"
 

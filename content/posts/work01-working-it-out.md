@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-05-03T10:00:00Z
-description = ""
 draft = false
 image = "/images/farmers.jpg"
 slug = "work01-working-it-out"
-summary = "Season three of our Looking for Wisdom course, where we're looking at the philosophy of work. This week: hunters and gatherers, Mencius, Aristotle and slavery."
+description = "Season three of our Looking for Wisdom course, where we're looking at the philosophy of work. This week: hunters and gatherers, Mencius, Aristotle and slavery."
 tags = ["Philosopher Files"]
 title = "Working it Out: The Philosophy of Work (Work #1)"
 

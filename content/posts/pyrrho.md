@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-10-07T10:00:00Z
-description = ""
 draft = false
 image = "/images/Petrarca-Meister_001.jpg"
 slug = "pyrrho"
-summary = "Pyrrho was the precursor of the ancient sceptical school. He was a philosopher who travelled widely and, according to some commentators, reinvented Indian modes of thought in the context of ancient Greece."
+description = "Pyrrho was the precursor of the ancient sceptical school. He was a philosopher who travelled widely and, according to some commentators, reinvented Indian modes of thought in the context of ancient Greece."
 tags = ["Philosopher Files"]
 title = "Pyrrho and the Trouble with Ethics"
 

@@ -1,11 +1,10 @@
 +++
 categories = ["Series"]
 date = 2022-06-09T09:16:49Z
-description = ""
 draft = false
 image = "images/Au_Moulin.jpg"
 slug = "7-ways-drunk-philosophy"
-summary = "Is drunkenness the enemy of philosophical sobriety? Or are there circumstances where drunkenness can make our philosophical insight more acute?"
+description = "Is drunkenness the enemy of philosophical sobriety? Or are there circumstances where drunkenness can make our philosophical insight more acute?"
 tags = ["Series"]
 title = "7 Ways of Reading Philosophy #5: Reading While Drunk"
 

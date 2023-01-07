@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2022-01-13T10:00:00Z
-description = ""
 draft = false
 image = "/images/The_Rainbow_oil_on_canvas_painting_by_Robert_Delaunay-_1913.jpg"
 slug = "ubuntu"
-summary = "Desmond Tutu, and the idea of ubuntu: we are, because we belong."
+description = "Desmond Tutu, and the idea of ubuntu: we are, because we belong."
 tags = ["Philosopher Files"]
 title = "Desmond Tutu, Ubuntu and the Possibility of Hope"
 

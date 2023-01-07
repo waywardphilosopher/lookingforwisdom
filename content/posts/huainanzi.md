@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2022-04-28T10:00:00Z
-description = ""
 draft = false
 image = "/images/cycles.jpg"
 slug = "huainanzi"
-summary = "The Huainanzi, a fascinating Han dynasty guidebook for rulers, on resonance, non-action, charioteering, and how not to fall off a bicycle."
+description = "The Huainanzi, a fascinating Han dynasty guidebook for rulers, on resonance, non-action, charioteering, and how not to fall off a bicycle."
 tags = ["Philosopher Files"]
 title = "Advice for Rulers, Charioteers and Cyclists: the Huainanzi"
 

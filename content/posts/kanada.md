@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2022-03-24T10:00:00Z
-description = ""
 draft = false
 image = "/images/klee-angel.jpg"
 slug = "kanada"
-summary = "What are we, most fundamentally? Kaṇāda, founder of the Vaiśeṣika philosophical school, has some surprising answers."
+description = "What are we, most fundamentally? Kaṇāda, founder of the Vaiśeṣika philosophical school, has some surprising answers."
 tags = ["Philosopher Files"]
 title = "Kaṇāda's Search for a Soul Without Qualities"
 

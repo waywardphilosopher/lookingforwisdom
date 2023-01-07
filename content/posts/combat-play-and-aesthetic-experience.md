@@ -1,11 +1,10 @@
 +++
 categories = ["Blogs"]
 date = 2022-05-12T10:00:00Z
-description = ""
 draft = false
 image = "/images/cudgels.jpg"
 slug = "combat-play-and-aesthetic-experience"
-summary = "Is philosophy a kind of play? Is it a kind of combat? Or is it a kind of aesthetic experience? Thoughts on Sarah Mattice and Michel Serres."
+description = "Is philosophy a kind of play? Is it a kind of combat? Or is it a kind of aesthetic experience? Thoughts on Sarah Mattice and Michel Serres."
 tags = ["Blogs"]
 title = "Combat, Play and Aesthetic Experience: Three Metaphors of Philosophy"
 

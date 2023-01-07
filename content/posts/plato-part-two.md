@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-07-22T10:00:00Z
-description = ""
 draft = false
 image = "/images/academy.jpeg"
 slug = "plato-part-two"
-summary = "Plato is famous for what is sometimes called his \"theory of forms\". But what are forms? What is this theory? And what makes Aslan an almost-perfect cat? "
+description = "Plato is famous for what is sometimes called his \"theory of forms\". But what are forms? What is this theory? And what makes Aslan an almost-perfect cat? "
 tags = ["Philosopher Files"]
 title = "Plato's Theory of Forms"
 

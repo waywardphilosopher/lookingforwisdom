@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-08-12T10:00:00Z
-description = ""
 draft = false
 image = "/images/Aristotle-1.jpg"
 slug = "aristotle"
-summary = "Aristotle was a hugely eclectic thinker. But he was also a systematic one. And at the heart of his philosophy is the idea of the diversity of human ways of knowing. "
+description = "Aristotle was a hugely eclectic thinker. But he was also a systematic one. And at the heart of his philosophy is the idea of the diversity of human ways of knowing. "
 tags = ["Philosopher Files"]
 title = "Aristotle on Ways of Knowing"
 

@@ -1,11 +1,10 @@
 +++
 categories = ["Series"]
 date = 2021-01-04T11:00:00Z
-description = ""
 draft = false
 image = "/images/Can_you_keep_a_secret-_Wise_bird-_tell_me_true-_LCCN2016651877.jpg"
 slug = "wisdom01-what-is-wisdom"
-summary = "In the first lesson of season one, we're asking about wisdom, what it is, how it matters, and how to cultivate it."
+description = "In the first lesson of season one, we're asking about wisdom, what it is, how it matters, and how to cultivate it."
 tags = ["Series"]
 title = "What is Wisdom? (Wisdom #1)"
 

@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2022-06-23T10:00:53Z
-description = ""
 draft = false
 image = "/images/Venus_and_Mars.jpg"
 slug = "lucretius-ethics"
-summary = "Ethics, power and a life in motion."
+description = "Ethics, power and a life in motion."
 tags = ["Philosopher Files"]
 title = "The Swoop and Surge of Life: Lucretius on Ethics in Motion"
 

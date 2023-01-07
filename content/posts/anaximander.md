@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2020-12-03T11:00:00Z
-description = ""
 draft = false
 image = "images/Anaximander.jpg"
 slug = "anaximander"
-summary = "The philosopher Anaximander was born in the trading port of Miletus in 610 BCE, and is said to have become a student of the philosopher Thales. His philosophy explored questions of creation and destruction in nature."
+description = "The philosopher Anaximander was born in the trading port of Miletus in 610 BCE, and is said to have become a student of the philosopher Thales. His philosophy explored questions of creation and destruction in nature."
 tags = ["Philosopher Files"]
 title = "Anaximander and the Boundlessly Creative Universe"
 

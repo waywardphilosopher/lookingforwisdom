@@ -1,11 +1,10 @@
 +++
 categories = ["Series"]
 date = 2021-05-24T10:00:00Z
-description = ""
 draft = false
 image = "/images/sedentary.jpeg"
 slug = "work04-spiritual-damage"
-summary = "In the last piece, we explored the idea that work might just be the thing that saves us. But what if the reverse is true?"
+description = "In the last piece, we explored the idea that work might just be the thing that saves us. But what if the reverse is true?"
 tags = ["Series"]
 title = "Spiritual Damage: How Work is Bad for Us (Work #4)"
 

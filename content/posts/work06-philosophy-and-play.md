@@ -1,11 +1,10 @@
 +++
 categories = ["Series"]
 date = 2021-06-07T10:00:00Z
-description = ""
 draft = false
 image = "/images/games-1.jpeg"
 slug = "work06-philosophy-and-play"
-summary = "We spend a lot of our life not just working, but also playing. But what is play? In this class, we'll look at the serious business of play, and why it matters. "
+description = "We spend a lot of our life not just working, but also playing. But what is play? In this class, we'll look at the serious business of play, and why it matters. "
 tags = ["Series"]
 title = "The Opposite of Work Part 2: Philosophy and Play (Work #6)"
 

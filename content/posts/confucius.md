@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2020-11-01T09:54:00Z
-description = ""
 draft = false
 image = "/images/Konfuzius-1770.jpg"
 slug = "confucius"
-summary = "Confucius is one of history's most influential philosophers. His insights have shaped the cultures of East Asia and beyond for centuries. Confucius was a reformer who aimed to refashion society on the basis of justice and virtue. And yet, during his lifetime, his teachings were largely ignored."
+description = "Confucius is one of history's most influential philosophers. His insights have shaped the cultures of East Asia and beyond for centuries. Confucius was a reformer who aimed to refashion society on the basis of justice and virtue. And yet, during his lifetime, his teachings were largely ignored."
 tags = ["Philosopher Files"]
 title = "Cultivating Ritual with Confucius"
 

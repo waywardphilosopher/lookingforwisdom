@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-05-06T10:00:00Z
-description = ""
 draft = false
 image = "/images/balance.jpg"
 slug = "mozi"
-summary = "Mozi was one of the most influential of all early Chinese philosophers. He proposed a society based on universal love, protected by a system of rewards and punishments."
+description = "Mozi was one of the most influential of all early Chinese philosophers. He proposed a society based on universal love, protected by a system of rewards and punishments."
 tags = ["Philosopher Files"]
 title = "Mozi and the Challenge of Universal Love"
 

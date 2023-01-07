@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2020-11-06T09:11:00Z
-description = ""
 draft = false
 image = "/images/Heraclitus.jpg"
 slug = "heraclitus"
-summary = "Heraclitus's philosophy was based on the idea that the world is in continual flux. He is famous above all for his mysterious comment that 'everything flows.'"
+description = "Heraclitus's philosophy was based on the idea that the world is in continual flux. He is famous above all for his mysterious comment that 'everything flows.'"
 tags = ["Philosopher Files"]
 title = "Fire and Flow: the Philosophy of Heraclitus"
 

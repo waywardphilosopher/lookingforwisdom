@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2020-11-02T10:00:00Z
-description = ""
 draft = false
 image = "/images/diotima.jpg"
 slug = "diotima"
-summary = "Diotima was a teacher of Socrates, a priestess, and a philosopher of love. She appears only once in contemporary accounts, in the work of Plato; and for centuries, scholars have debated her historicity. But whether or not she truly existed, the ideas attributed to her are both subtle and powerful. "
+description = "Diotima was a teacher of Socrates, a priestess, and a philosopher of love. She appears only once in contemporary accounts, in the work of Plato; and for centuries, scholars have debated her historicity. But whether or not she truly existed, the ideas attributed to her are both subtle and powerful. "
 tags = ["Philosopher Files"]
 title = "Diotima Climbs the Ladder of Love"
 

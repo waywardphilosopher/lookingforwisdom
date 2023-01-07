@@ -1,11 +1,10 @@
 +++
 categories = ["Series"]
 date = 2021-04-05T12:00:00Z
-description = ""
 draft = false
 image = "/images/love-game.jpg"
 slug = "love06-will-you-still-love-me"
-summary = "What does it mean to say \"I love you\"? And how do these three little words change our sense of ourselves, our commitments, and our future? "
+description = "What does it mean to say \"I love you\"? And how do these three little words change our sense of ourselves, our commitments, and our future? "
 tags = ["Series"]
 title = "“Will You Still Love Me Tomorrow?” Love, trust and the future (Love #6)"
 

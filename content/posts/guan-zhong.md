@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2020-11-19T11:00:00Z
-description = ""
 draft = false
 image = "/images/guanzhong.jpg"
 slug = "guan-zhong"
-summary = "Guan Zhong was one of China's earliest named philosophers. A sharp political operator, he rose from poverty to become Chancellor of the state of Qi. He is associated in particular with the philosophy of legalism. "
+description = "Guan Zhong was one of China's earliest named philosophers. A sharp political operator, he rose from poverty to become Chancellor of the state of Qi. He is associated in particular with the philosophy of legalism. "
 tags = ["Philosopher Files"]
 title = "Guan Zhong the Reformer"
 

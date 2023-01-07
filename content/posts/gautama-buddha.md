@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-04-08T10:00:00Z
-description = ""
 draft = false
 image = "/images/buddha.jpg"
 slug = "gautama-buddha"
-summary = "The Buddha was a wandering renunciant in Ancient India who kick-started a two and a half thousand-year-old religious and philosophical tradition. But who was he?"
+description = "The Buddha was a wandering renunciant in Ancient India who kick-started a two and a half thousand-year-old religious and philosophical tradition. But who was he?"
 tags = ["Philosopher Files"]
 title = "Gautama Buddha and the Turn Toward Experience"
 

@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-02-04T11:00:00Z
-description = ""
 draft = false
 image = "/images/scholar-garden.jpg"
 slug = "deng-xi"
-summary = "Deng Xi was a lawyer and philosopher associated with the so-called \"School of Names\". He was skilled in debate and frequently caused confusion by simultaneously arguing opposite viewpoints."
+description = "Deng Xi was a lawyer and philosopher associated with the so-called \"School of Names\". He was skilled in debate and frequently caused confusion by simultaneously arguing opposite viewpoints."
 tags = ["Philosopher Files"]
 title = "Deng Xi, the Philosopher Who Argued From Both Sides"
 

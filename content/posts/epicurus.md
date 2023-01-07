@@ -1,11 +1,10 @@
 +++
 categories = ["Philosopher Files"]
 date = 2021-12-02T10:00:00Z
-description = ""
 draft = false
 image = "/images/epicurus.jpg"
 slug = "epicurus"
-summary = "The trouble with pleasure, according to the philosopher Epicurus, is that we're not very good at it."
+description = "The trouble with pleasure, according to the philosopher Epicurus, is that we're not very good at it."
 tags = ["Philosopher Files"]
 title = "Getting Smart About Pleasure: The Philosophy of Epicurus"
 
