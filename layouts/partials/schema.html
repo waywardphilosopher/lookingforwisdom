@@ -5,13 +5,14 @@
     "@type": "WebSite",
     "name": "{{ .Site.Title }}",
     "url": "{{ .Site.BaseURL }}",
+    "author" : "{{ .Site.Params.author }}",
     "description": "{{ .Site.Params.description }}",
     "thumbnailUrl": "{{ .Site.Params.Logo | absURL }}",
     "license": "{{ .Site.Params.Copyright }}"
 }
 </script>
 {{ else if .IsPage }}
-{{ $author :=  or (.Params.author) (.Site.Author.name) }}
+{{ $author :=  or (.Params.author) (.Site.Params.author) }}
 {{ $organization :=  .Site.Title }}
 <script type="application/ld+json">
 {
@@ -31,14 +32,17 @@
     "author" : {
         "@type": "Person",
         "name": "{{ $author }}"
+        "url" : "https://www.willbuckingham.com"
     },
     "creator" : {
         "@type": "Person",
         "name": "{{ $author }}"
+        "url" : "https://www.willbuckingham.com"
     },
     "accountablePerson" : {
         "@type": "Person",
         "name": "{{ $author }}"
+        "url" : "https://www.willbuckingham.com"
     },
     "copyrightHolder" : "{{ $organization }}",
     "copyrightYear" : "{{ .Date.Format "2006" }}",
