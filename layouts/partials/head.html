@@ -3,7 +3,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="{{ "favicon.ico" | relURL }}">
-
   <title>{{ if not .IsHome }}{{ humanize .Title }} | {{ end }}{{ .Site.Title }}</title>
   <meta name="description" content="{{if .IsHome}}{{ .Site.Params.description }}{{else}}{{ .Description }}{{end}}">
 
@@ -69,5 +68,5 @@
   {{ with resources.Get "sass/main.scss" | toCSS | minify }}
   <style>{{ .Content | safeCSS }}</style>
   {{ end }}
-
+  {{ partial "schema.html" . }}
 </head>

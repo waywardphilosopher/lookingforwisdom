@@ -12,7 +12,7 @@ title = "The Swoop and Surge of Life: Lucretius on Ethics in Motion"
 
 ## Love, Strife and The Mad Machinery of War
 
-In his great poem, **On the Nature of the Universe** (**De Rerum Natura\*),* Roman poet-philosopher Lucretius (born c. 100 BCE) asks what it means  to live fully in a world where everything is always in motion. A  follower of the Greek philosopher [Epicurus](/epicurus), Lucretius proposed that the universe was both [dynamic and unstable](/lucretius-clinamen/). But as well as setting out a vision of physics, or how the world is,  Lucretius also set out a compelling vision of what it means to live in  such a world.
+In his great poem, **On the Nature of the Universe** (*De Rerum Natura*), Roman poet-philosopher Lucretius (born c. 100 BCE) asks what it means  to live fully in a world where everything is always in motion. A  follower of the Greek philosopher [Epicurus](/epicurus), Lucretius proposed that the universe was both [dynamic and unstable](/lucretius-clinamen/). But as well as setting out a vision of physics, or how the world is,  Lucretius also set out a compelling vision of what it means to live in  such a world.
 
 Ethics appears right at the beginning of **On the Nature of the Universe**, when Lucretius sings the praises of the goddess Venus. He conjures up  the image of the struggle between Venus and Mars, between love and  strife. Lucretius offers up a prayer to the Goddess (in the brilliant  translation by Alicia Stallings) as follows:
 

@@ -3,7 +3,6 @@
 baseURL = "https://www.lookingforwisdom.com/"
 languageCode = "en-us"
 title = "Looking for Wisdom"
-googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 paginate = 6
 enableRobotsTXT = true
 
@@ -11,6 +10,10 @@ enableRobotsTXT = true
   logo = "" # You can add own logo. For example "/images/logo.png".
   description = "Philosophy for the insatiably curious: insights and ideas from the world's philosophical traditions, from the ancient world to the present day."
   color_scheme = "auto" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+  header = "Looking for Wisdom"
+  copyright = "Will Buckingham"
+  languageCode = "en-GB"
+  author = "Will Buckingham"
 
 #-------------------------------
 # Main Menu
@@ -96,11 +99,6 @@ enableRobotsTXT = true
 
 
   #-------------------------------
-  # Author Settings
-  [params.author]
-    author__name = "Will Buckingham"
-    author__bio = "Looking for Wisdom is a project of Wind&Bones CIC, a company registered in Scotland. The site is curated by philosopher and writer, Dr Will Buckingham. Company no. SC734907: 3/L, 48 Cleghorn Street, Dundee. DD2 2NJ. "
-    author__avatar = "https://via.placeholder.com/500x500"
 
   # Social Links
   [[params.social]]
@@ -195,7 +193,7 @@ enableRobotsTXT = true
   [params.blog]
     enable = true
     blog__title = "Latest Updates"
-    blog__description = ""
+    blog__description = "Latest updates from Looking for Wisdom"
 
 
   #-------------------------------
