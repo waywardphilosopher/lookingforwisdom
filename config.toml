@@ -15,6 +15,12 @@ enableRobotsTXT = true
   languageCode = "en-GB"
   author = "Will Buckingham"
 
+
+
+[taxonomies]
+  tag = 'tags'
+
+
 #-------------------------------
 # Main Menu
 [menu]

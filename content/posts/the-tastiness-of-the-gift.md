@@ -1,5 +1,4 @@
 +++
-categories = ["Philosopher Files"]
 date = 2021-11-18T10:00:00Z
 draft = false
 image = "/images/Les_Tre-s_Riches_Heures_du_duc_de_Berry_Janvier-2--1-.jpeg"

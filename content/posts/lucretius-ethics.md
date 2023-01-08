@@ -1,5 +1,4 @@
 +++
-categories = ["Philosopher Files"]
 date = 2022-06-23T10:00:53Z
 draft = false
 image = "/images/Venus_and_Mars.jpg"

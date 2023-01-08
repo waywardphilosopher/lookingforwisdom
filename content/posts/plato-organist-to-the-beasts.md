@@ -1,5 +1,4 @@
 +++
-categories = ["Philosopher Files"]
 date = 2020-12-02T08:30:08Z
 draft = false
 image = "/images/plato-organ.jpeg"

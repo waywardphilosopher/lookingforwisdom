@@ -1,5 +1,4 @@
 +++
-categories = ["Philosopher Files"]
 date = 2020-11-01T09:54:00Z
 draft = false
 image = "/images/Konfuzius-1770.jpg"

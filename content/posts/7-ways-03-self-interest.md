@@ -1,13 +1,11 @@
 +++
-categories = ["Series"]
 date = 2021-05-19T10:48:44Z
 draft = false
 image = "/images/reading-self-interest.jpg"
 slug = "7-ways-03-self-interest"
 description = "Why be a dutiful reader, when you can read self-interestedly? "
-tags = ["Series"]
+tags = ['Series']
 title = "7 Ways of Reading Philosophy: #3 Reading self-interestedly"
-
 +++
 
 

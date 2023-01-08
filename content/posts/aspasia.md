@@ -1,5 +1,4 @@
 +++
-categories = ["Philosopher Files"]
 date = 2020-11-04T12:10:00Z
 draft = false
 image = "/images/Aspasia-Socrates.jpg"

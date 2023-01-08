@@ -1,11 +1,10 @@
 +++
-categories = ["Philosopher Files"]
 date = 2022-12-16T10:15:57Z
 draft = false
 image = "/images/hipparchia-crates-2.png"
 slug = "barbara-stok-hipparchia"
 description = "Comics artist Barbara Stok talks about her brilliant reimagining of the life of the Cynic philosopher Hipparchia."
-tags = ["Philosopher Files"]
+tags = ["Interviews"]
 title = "Barbara Stok, on Comics and Cynics"
 
 +++

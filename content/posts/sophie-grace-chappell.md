@@ -1,5 +1,4 @@
 +++
-categories = ["Interviews"]
 date = 2021-08-26T10:00:00Z
 draft = false
 image = "/images/birmann.jpeg"

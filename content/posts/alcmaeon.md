@@ -1,5 +1,4 @@
 +++
-categories = ["Philosopher Files"]
 date = 2021-03-11T11:00:00Z
 draft = false
 image = "images/asclepius.jpg"

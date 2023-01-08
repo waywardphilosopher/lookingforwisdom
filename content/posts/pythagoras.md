@@ -1,5 +1,4 @@
 +++
-categories = ["Philosopher Files"]
 date = 2020-11-10T09:24:00Z
 draft = false
 image = "/images/1922.2664---Head-of-Pythagoras.jpg"

@@ -1,5 +1,4 @@
 +++
-categories = ["Philosopher Files"]
 date = 2020-12-24T11:00:00Z
 draft = false
 image = "/images/The_Weaver_Girl.jpg"

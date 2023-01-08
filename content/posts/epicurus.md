@@ -1,5 +1,4 @@
 +++
-categories = ["Philosopher Files"]
 date = 2021-12-02T10:00:00Z
 draft = false
 image = "/images/epicurus.jpg"

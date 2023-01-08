@@ -1,5 +1,4 @@
 +++
-categories = ["Philosopher Files"]
 date = 2021-02-18T11:00:00Z
 draft = false
 image = "/images/Guerrero_de_Terracota_-15730544471-.jpg"

@@ -1,5 +1,4 @@
 +++
-categories = ["Series"]
 date = 2021-01-04T11:00:00Z
 draft = false
 image = "/images/Can_you_keep_a_secret-_Wise_bird-_tell_me_true-_LCCN2016651877.jpg"

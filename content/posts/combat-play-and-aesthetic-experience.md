@@ -1,5 +1,4 @@
 +++
-categories = ["Blogs"]
 date = 2022-05-12T10:00:00Z
 draft = false
 image = "/images/cudgels.jpg"

@@ -1,5 +1,4 @@
 +++
-categories = ["Philosopher Files"]
 date = 2022-04-21T10:00:00Z
 draft = false
 image = "/images/Solen_av_Edvard_Munch.jpg"

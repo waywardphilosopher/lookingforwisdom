@@ -1,5 +1,4 @@
 +++
-categories = ["Interviews"]
 date = 2021-03-04T11:00:00Z
 draft = false
 image = "/images/alexus-mcleod.jpg"

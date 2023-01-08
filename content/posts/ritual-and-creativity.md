@@ -1,5 +1,4 @@
 +++
-categories = ["Philosopher Files"]
 date = 2021-10-21T10:00:00Z
 draft = false
 image = "/images/shaping-the-world.jpg"

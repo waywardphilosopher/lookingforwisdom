@@ -1,5 +1,4 @@
 +++
-categories = ["News"]
 date = 2022-12-27
 draft = false
 image = "/images/construction.jpg"

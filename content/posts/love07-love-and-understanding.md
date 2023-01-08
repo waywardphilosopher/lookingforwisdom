@@ -1,5 +1,4 @@
 +++
-categories = ["Series"]
 date = 2021-04-12T13:00:00Z
 draft = false
 image = "/images/sophia-engraving.jpg"

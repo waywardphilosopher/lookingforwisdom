@@ -1,5 +1,4 @@
 +++
-categories = ["Blogs"]
 date = 2020-11-22T13:01:27Z
 draft = false
 image = "/images/Randolph_Caldecott_collection-page_0030.jpg"
