@@ -64,7 +64,7 @@ One way the ruler can keep their pleasures in check is by appointing good minist
 
 Here, the *Arthaśāstra*'s advice is to subject potential ministers to secret tests of loyalty, to tricks and ruses—and to see how well they fare. By tempting your ministers into wrong-doing, you can winnow out those who are not incorruptible. Those who hold firm are likely to be trustworthy.
 
-This theme of underhand tactics — the trick, the ruse, the secret test — raises one of the themes that recurs throughout the text. And that is the theme of the clandestine nature of rulership Statecraft, according to the *Arthaśāstra*, if it is done right, is inherently underhand. Not only should the ruler be underhand in how they select their ministers, they should also put in place a whole network of underhand operatives to keep control of their empire.
+This theme of underhand tactics — the trick, the ruse, the secret test — recurs throughout the text. If it is done right, statecraft, according to the *Arthaśāstra*, is *inherently* underhand. Not only should the ruler be underhand in how they select their ministers, they should also put in place a whole network of underhand operatives to keep control of their empire.
 
 > With the body of ministers, whose integrity has been proven by secret tests, in place, he should commission clandestine operatives: crafty students, apostate recluses, and agents working undercover as householders, merchants, or ascetics, as well as secret agents, assassins, poisoners, and female mendicant agents. (1.11.19 p. 76-7)
 
