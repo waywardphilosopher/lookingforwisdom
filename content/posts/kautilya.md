@@ -51,7 +51,7 @@ This leads to a kind of social contract theory. The *Arthaśāstra* says it is p
 ## The training of a king
 The emphasis on training is central here. Arbitrary and unrestrained use of punishment is not going to serve the interests of the ruler. And the *Arthaśāstra* makes clear a good ruler needs to underpin their rule with extensive knowledge—of philosophy, of the Vedas or religious texts, of elephants, horses, chariots, and weapons—and with a mastery of their mind and of their senses. An ill-trained ruler is a bad ruler.
 
-But the most fundamental aspect of the training of a ruler, the text says, is not book learning, or knowledge of strategy. It is the training of the senses. If you are unrestrained in the use of your senses, you will fail as a ruler. You will become dissolute, you will slacken your vigilance, and this will lead to others exploiting your weakness.
+The most fundamental aspect of the training of a ruler, the text says, is not book learning, or knowledge of strategy. It is this training of the senses. If you are unrestrained in the use of your senses, you will fail as a ruler. You will become dissolute, you will slacken your vigilance, and this will lead to others exploiting your weakness.
 
 In case the point isn't driven home with sufficient force, the text helpfully goes on to list some examples of those rulers who, unrestrained in their senses, were brought to their senses sharply by their enemies. After enumerating a series of cases of rulers running riot, the text says: 
 
