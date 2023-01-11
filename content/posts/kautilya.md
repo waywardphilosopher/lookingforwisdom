@@ -34,11 +34,11 @@ If there is a bigger background to this, it is a view of human life that the tex
 
 <figcaption>
 
-Bodelian Library Oxford. CC By 4.0. Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Fish_in_art_of_India#/media/File:Kalighat_pictures_sep_sheets_29.jpg).
+Bodleian Library Oxford. CC By 4.0. Via [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Fish_in_art_of_India#/media/File:Kalighat_pictures_sep_sheets_29.jpg).
 
 </figcaption>
 
-However, this apprently simple principle presents the ruler with some difficult challenges. In terms of foreign policy, the difficulty is how to avoid being devoured by bigger fish who happen to be nearby. Or how to become the biggest fish in the pond, so you can devour others. But internally, the wise ruler should pay attention to the law of the fish as well.
+However, this apparently simple principle presents the ruler with some difficult challenges. In terms of foreign policy, the difficulty is how to avoid being devoured by bigger fish who happen to be nearby. Or how to become the biggest fish in the pond, so you can devour others. But internally, the wise ruler should pay attention to the law of the fish as well.
 
 One might think that in a fish-eat-fish world, the ruler could exert unlimited power over the bodies of their subjects, and just swim around gobbling everybody up. However, history and experience show that things are always more complicated. If a ruler abuses their power beyond breaking-point, their subjects may embark on collective action. And although one big fish may eat many small fish, the reverse is also true: many small fish can, working together, devour one big fish. So, the trick is to control one's subjects as much as one can, but not going so far as to incite revolt.
 
