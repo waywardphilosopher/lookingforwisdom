@@ -246,3 +246,14 @@ text-align: center;
 text-transform: uppercase;
 margin: 10px auto 0px auto;
 }
+
+figcaption {
+  text-align: center;
+  margin: 0px auto;
+  font-size: 80%;
+  color: #aaa;
+}
+
+figcaption a {
+  color: #aaa;
+}
