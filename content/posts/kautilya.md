@@ -71,9 +71,11 @@ This theme of underhand tactics — the trick, the ruse, the secret test — r
 The *Arthaśāstra* is a riot of sneaky ruses: from fomenting dissent, to handing out secret punishments; from poisonings to sexual manipulation; from appeals to vanity to disguising assassins as potential lovers; and from the exploitation of difference and discord to the use of magical arts. Pretty much everything is fair game, if it leads to success and thus also ensures the continuation of law and pleasure.
 
 ## Finding a space for ethics
-It is hardly surprising, as McClish writes, that this unabashed emphasis on "duplicity, violence, and opportunism" made the *Arthaśāstra* always a controversial text. Nevertheless, this emphasis on secrecy and sneakiness needs to be set against the earlier material on training and restraint of the senses. The concerns of the text may be more pragmatic than moral, but they are not entirely divorced from morality. Morality is one aspect of the pragmatic calculus in which the ruler must engage. Pragmatically speaking, at least, there can be no taking leave of morality. If you are seen to be rapacious yourself, or if you let others run riot, then there is only so long people will put up with you as a ruler.
+It is hardly surprising, as McClish writes, that this unabashed emphasis on "duplicity, violence, and opportunism" made the *Arthaśāstra* a controversial text. Where is the room for ethics? What about virtue?
 
-And here is a moral that would-be Logan Roys need to take on board: that from a pragmatic point of view, people in general *demand* a certain level of morality. And an effective, or successful, ruler ignores this fact at their peril.
+But before leaping to the assumption that the *Arthaśāstra* is completely opposed to morality, we need to set this emphasis on secrecy and sneakiness against the earlier material on training and restraint of the senses. The concerns of the text are certainly more pragmatic than moral, but they are not entirely divorced from morality. Morality is one aspect — and a vitally important one — of the pragmatic calculus in which the ruler must engage. Pragmatically speaking, there can be no taking leave of morality. If you are seen to be rapacious yourself, or if you let others run riot, then there is only so long people will put up with you as a ruler.
+
+So here is a moral that would-be Logan Roys would do well to take on board: from a pragmatic point of view, people in general *demand* a certain level of morality. And an effective, or successful, ruler ignores this fact at their peril.
 
 ---
 
