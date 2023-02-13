@@ -1,5 +1,4 @@
 +++
-
 date = 2023-02-13
 draft = false
 image = "images/laughter.jpg"
@@ -7,7 +6,6 @@ slug = "7-ways-06-for-laughs"
 description = "Why so serious?"
 tags = ["Series"]
 title = "7 Ways of Reading Philosophy: #6 Reading for laughs"
-
 +++
 
 When we moved the Looking for Wisdom HQ up to Scotland a year ago, we packed away all our philosophy books into boxes. There were a lot of boxes. So on the outside, with a big fat marker pen, we wrote the words: “Philosophy Books (warning: extremely heavy).” As jokes go, it was a pretty feeble one. But it kept us entertained through the stresses of the move.
@@ -82,7 +80,7 @@ Fortunately, there's no obligation to read philosophy in the mood in which we th
 ## Philosophy, and the proper care of the stomach
 This aspiration to read philosophy differently is, in the end, why Nietzsche's celebration of laughter is worth taking seriously, or at least laughing along with. Because if the overwhelming mood of a lot of philosophy seems top be presided over by the Spirit of Gravity, there is a profound liberation to be found in reading for laughs. When we are freed from the obligation to always be serious, or from the oppressive fantasy that our ancestors were themselves monsters of seriousness, chinks start to open up. And through these chinks, we can see the light of new possibilities, new understandings, or at the very least, newly creative misunderstandings.
 
-This is a risky route to take. It may be that reading philosophy for laughs will lead your philosopher friends to shun you. So what? Laugh it off! It may be that all this laughter will lead you up a blind alley. What a hoot! Just retrace your steps, dancing as you go, and seek out another path!
+This may seem a risky route to take. It may be that reading philosophy for laughs will lead your philosopher friends to shun you. So what? Laugh it off! It may be that all this laughter will lead you up a blind alley. What a hoot! Just retrace your steps, dancing as you go, and seek out another path!
 
 Because at the very least — as Nietzsche reminds us — reading philosophy for laughs will aid your digestion. And your stomach will not bother you at night.
 
