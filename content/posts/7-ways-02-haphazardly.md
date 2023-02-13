@@ -4,7 +4,7 @@ draft = false
 image = "images/haphazardly.jpg"
 slug = "7-ways-02-haphazardly"
 description = "When reading philosophy, it's easy to feel under the obligation to read systematically. But why not give up on feelings of obligation, and read haphazardly?"
-tags = ["Philosopher Files"]
+tags = ["Series"]
 title = "7 Ways of Reading Philosophy: #2 Reading haphazardly"
 
 +++
