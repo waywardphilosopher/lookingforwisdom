@@ -3,7 +3,7 @@ date = 2023-02-13
 draft = false
 image = "images/laughter.jpg"
 slug = "7-ways-06-for-laughs"
-description = "Why so serious?"
+description = "Why so serious? Philosophy, mood, and why sometimes, seriousness is overrated."
 tags = ["Series"]
 title = "7 Ways of Reading Philosophy: #6 Reading for laughs"
 +++
