@@ -72,6 +72,18 @@ Well, that's fine too. Because nothing is lost. You and your horse have had a go
 
 ---
 
+## Read the whole series on seven ways of reading philosophy...
+
+1. [Reading Napoleonically](/7-ways-01-napoleon/)
+2. [Reading haphazardly](/7-ways-02-haphazardly/)
+3. [Reading self-interestedly](/7-ways-03-self-interest/)
+4. [Reading out loud](/7-ways-04-out-loud.md7-ways-04-out-loud)
+5. [Reading drunkenly](/7-ways-05-drunk/)
+6. [Reading for laughs](/7-ways-06-for-laughs/)
+7. Reading with others (forthcoming!)
+
+---
+
 ## Notes
 
 [1] This, and all subsequent passages by Rosenzweig, come from Barbara Galli and Alan Udoff, _Franz Rosenzweig’s “The New Thinking”_ (Syracuse University Press 1999), pp. 71-3.

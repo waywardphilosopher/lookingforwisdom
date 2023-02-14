@@ -48,17 +48,16 @@ So over the coming days or weeks, I’m going to explore seven different approac
 
 But let's stick with seven, so that these posts (unlike the _Critique of Pure Reason_) don't go on forever. The seven I have chosen are below. I’ll be dedicating one short article to each. And by the time you get to the end of this series of posts, you should be effectively inoculated against the things that too often get in the way of getting to grips with philosophy: fear, a sense of inadequacy, frustration, and despair.
 
-## Seven ways of reading philosophy (to be continued...)
+## Read the whole seven ways of reading philosophy series...
 
 1. [Reading Napoleonically](/7-ways-01-napoleon/)
 2. [Reading haphazardly](/7-ways-02-haphazardly/)
 3. [Reading self-interestedly](/7-ways-03-self-interest/)
-4. Reading out loud
-5. Reading for laughs
-6. Reading drunkenly
-7. Reading with others
+4. [Reading out loud](/7-ways-04-out-loud.md7-ways-04-out-loud)
+5. [Reading drunkenly](/7-ways-05-drunk/)
+6. [Reading for laughs](/7-ways-06-for-laughs/)
+7. Reading with others (forthcoming!)
 
-_**While you're here, [why not follow me on Twitter?](https://www.twitter.com/willbuckingham)**_
 
 ---
 

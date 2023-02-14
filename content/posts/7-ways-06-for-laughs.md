@@ -88,6 +88,18 @@ Because at the very least — as Nietzsche reminds us — reading philosophy for
 
 ---
 
+## Read the whole series on seven ways of reading philosophy...
+
+1. [Reading Napoleonically](/7-ways-01-napoleon/)
+2. [Reading haphazardly](/7-ways-02-haphazardly/)
+3. [Reading self-interestedly](/7-ways-03-self-interest/)
+4. [Reading out loud](/7-ways-04-out-loud.md7-ways-04-out-loud)
+5. [Reading drunkenly](/7-ways-05-drunk/)
+6. [Reading for laughs](/7-ways-06-for-laughs/)
+7. Reading with others (forthcoming!)
+
+---
+
 ## Notes
 
 [1] Martin Heidegger, trans. Joan Stambaugh, *Being and Time: A Translation of Sein und Zeit*, SUNY Press (1996), p. 126

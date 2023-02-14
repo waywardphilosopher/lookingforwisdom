@@ -2,7 +2,7 @@
 date = 2022-06-09T09:16:49Z
 draft = false
 image = "images/Au_Moulin.jpg"
-slug = "7-ways-drunk-philosophy"
+slug = "7-ways-05-drunk"
 description = "Is drunkenness the enemy of philosophical sobriety? Or are there circumstances where drunkenness can make our philosophical insight more acute?"
 tags = ["Series"]
 title = "7 Ways of Reading Philosophy #5: Reading While Drunk"
@@ -85,7 +85,19 @@ However, here we need to ask one final question: what if you don't drink? What  
 
 So this will be the topic of the next piece in this series: because for  Plato, philosophy, like drinking, is a communal pursuit. 
 
-------
+---
+
+## Read the whole series on seven ways of reading philosophy...
+
+1. [Reading Napoleonically](/7-ways-01-napoleon/)
+2. [Reading haphazardly](/7-ways-02-haphazardly/)
+3. [Reading self-interestedly](/7-ways-03-self-interest/)
+4. [Reading out loud](/7-ways-04-out-loud.md7-ways-04-out-loud)
+5. [Reading drunkenly](/7-ways-05-drunk/)
+6. [Reading for laughs](/7-ways-06-for-laughs/)
+7. Reading with others (forthcoming!)
+
+---
 
 ## Notes
 
