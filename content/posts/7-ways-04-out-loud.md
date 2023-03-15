@@ -2,7 +2,7 @@
 date = 2022-03-17T10:00:00Z
 draft = false
 image = "images/poet.jpg"
-slug = "7-ways-out-loud"
+slug = "7-ways-04-out-loud"
 description = "When the going gets tough, it can be good to read philosophy out loud."
 tags = ["Series"]
 title = "7 Ways of Reading Philosophy : #4 Reading Out Loud"
