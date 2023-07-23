@@ -76,9 +76,9 @@ For a translation of the _Bṛhadāraṅyaka Upaniṣad_, try Patrick Olivelle's
 
 Signe Cohen's _The Upaniṣads: A Complete Guide_ (Routledge 2018) is a fascinating collection of essays which gives a lot of philosophical, sociological and historical background.
 
-### **Online Resources**
+Also try Lindquist, Steven. *The Literary Life of Yajnavalkya*, Albany: SUNY, 2023.
 
-You can read Steven Lindquist's PhD on Yājñavalkya [here](https://repositories.lib.utexas.edu/handle/2152/2265). It's hugely rich and fascinating.
+
 
 ---
 
