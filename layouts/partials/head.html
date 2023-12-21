@@ -24,6 +24,10 @@
   <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
   {{ if .IsHome}}<meta property="og:image" content="{{ .Site.Params.hero.hero__image | absURL }}">{{ else }}<meta property="og:image" content="{{ .Params.Image | absURL }}">{{ end }}
 
+<!-- Decap CMS -->
+
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
   <!-- Plausible analytics-->
 <script defer data-domain="lookingforwisdom.com" src="https://plausible.io/js/script.js"></script>
 
