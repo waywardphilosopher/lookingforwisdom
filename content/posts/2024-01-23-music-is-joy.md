@@ -7,7 +7,7 @@ keywords:
   - Plato
 slug: music-joy
 title: Music is Joy
-date: 2024-01-23T03:51:13.260Z
+date: 2024-01-22T20:30:00.000Z
 description: On Xunzi, Plato, music, and bodily joy
 tags:
   - Blog
