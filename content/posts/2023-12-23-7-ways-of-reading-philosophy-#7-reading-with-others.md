@@ -1,0 +1,45 @@
+---
+title: "7 Ways of Reading Philosophy: #7 Reading With Others"
+description: ""
+date: 2023-12-23T01:28:42.559Z
+preview: ""
+draft: true
+tags:
+    - Series
+slug: 7-ways-07-others
+categories: []
+---
+
+In a few weeks' time, I'll be starting a new project. Since August, the Looking for Wisdom headquarters has been in Tainan, in the south of Taiwan. Just round the corner from where we are living is the brilliant Wansha Performing Arts Centre (涴莎藝術展演中心), who run regular music and dance events, as well as lectures, book talks and a lot more. One day, I was ambling past and looking at their posters to see what they had coming up, and Mr. Chen, the boss, came out and we fell into conversation. Mr. Chen invited me in for tea, the conversation continued, then he invited me and my Wind&Bones collaborator Dr. Hannah Stevens back for even more tea and chat, and before long, we had cooked up a plan to run a series of monthly bilingual (English - Chinese) philosophy salons, open to the public.
+
+The first salon starts later this month month, and I'm very excited by the idea. Each month, we will take a new topic, and we will spend a couple of hours exploring the topic in a relaxed setting. We'll read original philosophical texts from across the world, talk about our own experience of this bewildering matter of being alive, and through conversation, talk and friendship, hopefully come to new insights and understandings.
+
+## Public philosophy
+Over the past couple of decades, there has been a growth of interest in what is sometimes called "public philosophy". Public philosophy is often defined in opposition to academic philosophy. And in this distinction, there is often an implicit hierarchy. The real, serious philosophy, we are led to believe, takes place in academic journals. Then public philosophers take the difficult truths that are published in academic journals, and try to put flesh on the bone, or to dress them up in a way that they can become more palatable, so lesser minds can grasp them.
+
+This hierarchy is reflected also in how universities work. Back in my home-country (the UK), universities make a distinction between research and "impact." Research is what happens in academic journals. And impact is what happens when you take these difficult things, and find a way of communicating them to bigger audiences.
+
+Let me take a non-philosophical example of how this works. Imagine that you have spent your career writing psychology papers on the neuroses that come from being confined or locked down with a small group of people, unable to connect with the outside world. That's your academic research, and it's pretty solid. But your university managers are claiming that it doesn't have demonstrable impact. Then one day, a reality TV production company gets in touch, and says that they are doing a show in which a group of strangers are confined together, until all their neuroses start to come to the surface. They ask if you would like to be a part of the show, so you can provide psychological commentaries on the participants' slow, agonishing (but eminently watchable) breakdowns. You agree without hesitation. This, after all, is a career boost. As far as the university and research councils are concerned, the *impact* of your research is going to go through the roof. You are reaching new audiences, communicating difficult truths in a popular medium. But, for all your excitement, it is clear in your mind that there is a hierarchy between your sober academic research, and what takes place on the TV. What happens in journals is research. What happens on TV shows is impact. 
+
+For me, this is never a distinction that makes sense. Thinking is thinking. It takes different shapes, and appears in different forms, and not all kinds of thinking can take place in the relatively restricted literary form of the academic paper. I love academic papers. I spend a lot of my time reading them. I'm currently working on a new book, and every so often I go to the 7-Eleven store round the corner to print out a batch of papers, so I can read through them. But as a writer, it is not a literary form that I particularly relish. I always want more elbow room than an academic paper can provide: I want to put in jokes, flights of fancy, whimsical digressions — and all kinds of other things of which peer reviewers might disapprove. One result of this is that much of what I write — here and elsehwere — doesn't really fit into this research/impact dichotomy. And while my most recent book, *Hello, Stranger: Stories of Connection in a Divided World* (Granta 2022), certainly had impact — it got good reviews, it was featured as Book of the Week on BBC Radio4, and so on — it wasn't a popularisation of work I had done in academic journals. All the thinking that took place in *Hello, Stranger*, for better or worse, took place in the book itself.
+
+This is one reason that I'm wary of the distinction between philosophy proper and public philosophy. As Becca Rothfeld asks, [why can't we just call it all "philosophy"](https://www.oxfordpublicphilosophy.com/two/what-is-public-philosophy) and be done with it? Rothfled writes:
+
+> Philosophy is often about our most personal acts and emotions: our grief, our anger, our vexed efforts to lace meaning to words. But for all its merits, academic philosophy is often so inadequately human. These days, public philosophy is much likelier to make the mouth water, to mound up as fresh and as full as a peach.
+
+After all, restricting philosophy proper to academic articles risks missing a lot: the whimsy, the jokes, the flights of fancy, the literary style, and the human complexity that makes so much philosophy worthwhile. It risks missing the beauty, the peach-like succulence of writing, the humanity.
+
+## Philosophy is many things: conversation is one of them
+So this philosophy salon is not really about popularising philosophy, or carrying out popular philosophy. It's just about philosophy, on the principle that philosophy can be many things. It can be the writing of academic journal articles, or solitary reflection in the company of nobody except a snoozing cat, or the crafting of literary essays, or a conversation between friends. If you go back to the ancient world, you can see this diversity of ways of doing philosophy. In China, there is Zhuangzi's insouciant refusal to hang out in the court versus Confucius's risky and arduous tramping around, trying to persuade the rulers of the Warring States era to listen to a modicum of good sense. The relatively cloistered communities of the early Pythagoreans and the Epicureans versus the public life of the Stoic philosophers. The unspeaking solitude of __, versus the garrulousness of Socrates who lurched around Athens, collaring people who claimed for themselves a modicum of wisdom, and interrogating them. 
+ 
+What goes by the name of "philosophy" is, and always has been, a rag-bag of different activities, and if anybody tries to give you a single, definiteve answer to the question, "What is philosophy?", they are not wrong so much as missing out on a lot of what makes philosophy such a rich, fascinating, supple, complex business. 
+
+In this series on reading philosophy, I've tried to do justice to this suppleness. There is no one way of doing philosophy, and no one way of reading philosophy. But often, when we come to read philosophy for the first time, we can find ourselves hampered by an idea of how we *should* read. We sit for hours in the library, hunched over Hegel, or Kant, or Wang Yangming, or Hannah Arendt, trying to work out what these thinkers are saying. If we talk, if we engage in dialogue, it is with ourselves, muttering in perplexity as we walk home from the library, or as we stir our evening pot of noodles, still preoccupied by these great thinkers and great thoughts. 
+
+But this is not the only way of doing philosophy. And if you are getting stuck with reading alone, why not read along with others.
+
+## Philosophy as Idle Chat （閒話）
+
+When I studied for my PhD at Staffordshire University in the UK, I spent a lot of time on my own, intensively studying. Sometimes, I [talked to myself](), as I attempted to get to grips with difficult concepts. Sometimes I talked to the cat. Sometimes, I talked to Elee, my partner. And sometimes I talked with my supervisors. My PhD was self-funded, and so I took a job as an adult education tutor to help pay my way. I spent hours travelling round my then home-town of Birmingham by bus, from draughty adult education centre to draughty adult education centre, where I led philosophy classes. We talked about texts together, reading them intensively, laughing and joking. And what I loved about these classes is that they were 
+
+In the China, there is a tradition of scholarly fun known as "idle chat" (閒話) 

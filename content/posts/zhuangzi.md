@@ -32,8 +32,6 @@ The envoys confessed that the tortoise lurking in the mud was probably having th
 
 ## **Philosophy**
 
-### 
-
 ### On gnarliness and uselessness
 
 It's already apparent that the Zhuang Zhou in these stories is a thinker who is sceptical about the idea that prestige and social status are a path to the good life. And the text of the _Zhuangzi_ tackles these questions more directly, putting forward an intriguing argument about the inherent value of uselessness.
