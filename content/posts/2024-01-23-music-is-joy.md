@@ -54,9 +54,9 @@ But the final reason goes back to Xunzi, and the double meaning of 樂 as music 
 
 ### Joy and Power
 
-A final thought: perhaps you can read Xunzi's treatise on music instead as a treatise on joy, and on how bodily joy is a threat to power. When Xunzi writes “When all the dancers are restrained and orderly, exerting to the utmost the strength of their bones and sinews to match the rhythm of drum and bell sounding together, and no-one is out of step, then how easy it is to tell the meaning of this group gathering,” he does not sound far different from Harold K. Phillips and his praise of “moral trots.” 
+A final thought: perhaps you can read Xunzi's treatise on music instead as a treatise on joy, and on how bodily joy is a threat to power. When Xunzi writes, “When all the dancers are restrained and orderly, exerting to the utmost the strength of their bones and sinews to match the rhythm of drum and bell sounding together, and no-one is out of step, then how easy it is to tell the meaning of this group gathering,” he does not sound far different from Harold K. Phillips and his praise of “moral trots.” 
 
-And it is at times like this, that there may not be just a temptation, but also a moral demand to fuck things up, to find oneself out-of-step. Because the secret of our resistance, and perhaps our goodness too, sometimes lies in refusing to trot along with the demands of power. It lies in our fractious hollering and singing, the drumming of our fingers and tapping of our toes, our whistling, and our chanting, our propensity to dance and whoop and wail…
+And it is at times like this that there may not be just a temptation, but also a moral demand to fuck things up, to find oneself out-of-step. Because the secret of our resistance, and perhaps our goodness too, sometimes lies in refusing to trot along with the demands of power. It lies in our fractious hollering and singing, the drumming of our fingers and tapping of our toes, our whistling, and our chanting, our propensity to dance and whoop and wail…
 
 - - -
 
