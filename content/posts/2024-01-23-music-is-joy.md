@@ -54,9 +54,9 @@ But the final reason goes back to Xunzi, and the double meaning of 樂 as music 
 
 ### Joy and Power
 
-A final thought: perhaps you can read Xunzi's treatise on music instead as a treatise on joy, and on how bodily joy is a threat to power. When Xunzi writes, “When all the dancers are restrained and orderly, exerting to the utmost the strength of their bones and sinews to match the rhythm of drum and bell sounding together, and no-one is out of step, then how easy it is to tell the meaning of this group gathering,” he does not sound far different from Harold K. Phillips and his praise of “moral trots.” 
+A final thought: perhaps you can read Xunzi's treatise on music instead as a treatise on joy, and on how bodily joy is a threat to power — one that needs to be channelled and managed so that this power can be maintained. When Xunzi writes, “When all the dancers are restrained and orderly, exerting to the utmost the strength of their bones and sinews to match the rhythm of drum and bell sounding together, and no-one is out of step, then how easy it is to tell the meaning of this group gathering,” he does not sound far different from Harold K. Phillips and his praise of “moral trots.” And while there are joys to be found in moral trots and restrained, orderly rhythms, there are other joys too, joys that are less easily tamed.
 
-And it is at times like this that there may not be just a temptation, but also a moral demand to fuck things up, to find oneself out-of-step. Because the secret of our resistance, and perhaps our goodness too, sometimes lies in refusing to trot along with the demands of power. It lies in our fractious hollering and singing, the drumming of our fingers and tapping of our toes, our whistling, and our chanting, our propensity to dance and whoop and wail…
+And when we find that the orchestration of our joys is in the service of structures that are unjust in their exericse of power, as we sometimes may, there may not be just the temptation, but also the moral demand to fuck things up, to find ourselves out-of-step. Because sometimes goodness lies in harmony; but at other times, it lies in refusing to trot along with the demands of power. It lies in our fractious hollering and singing, the drumming of our fingers and tapping of our toes, our whistling, and our chanting, our propensity to dance and whoop and wail…
 
 - - -
 
@@ -65,7 +65,6 @@ And it is at times like this that there may not be just a temptation, but also a
 Xunzi (trans. Eric L. Hutton), *Xunzi: The complete Text*. Princeton University Press, 2014.
 
 Plato (trans. G.M.A. Grube, rev. C.D.C. Reeve), “Republic”, in *Plato: Complete Works Edited, with Introduction and Notes*, by John M. Cooper (Hackett 1997)
-
 
 
 Image credit: Terry Ballard, Creative Commons [Attribution 2.0 Generic](https://creativecommons.org/licenses/by/2.0/deed.en) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Musical_Instrument_Museum_in_Phoenix_(51997117037).jpg)
