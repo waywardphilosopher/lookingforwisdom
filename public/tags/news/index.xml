@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Looking for Wisdom</title>
+    <link>https://www.lookingforwisdom.com/tags/news/</link>
+    <description>Recent content in News on Looking for Wisdom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.lookingforwisdom.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Looking for Wisdom: A New Look</title>
+      <link>https://www.lookingforwisdom.com/a-new-look/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.lookingforwisdom.com/a-new-look/</guid>
+      <description>Time for a Change It&amp;rsquo;s been two years since I started Looking for Wisdom, along with my Wind&amp;amp;Bones collaborator, Hannah Stevens. We set up the site when deep in the middle of Covid lockdown in Sofia, Bulgaria. We had time on our hands, the world seemed even more deeply puzzling than usual (as Aristotle points out in the Metaphysics, wonder or thaumazein is often a spur to philosophising), and we thought it would be fun to set up a philosophy newsletter.</description>
+    </item>
+  </channel>
+</rss>
