@@ -1,6 +1,6 @@
 # This will redirect front page to WillBuckingham.com
 
-/	www.willbuckingham.com	301
+/	https://www.willbuckingham.com	301
 
 # This will redirect all blog posts to corresponding post on WillBuckingham.com
-/*	www.willbuckingham.com/:splat	301
+/*	https://www.willbuckingham.com/:splat	301
