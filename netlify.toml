@@ -9,3 +9,17 @@
 
 [functions]
   node_bundler = "esbuild"
+
+# This will redirect all sub-pages to an equivalent page on WillBuckingham.com
+[[redirects]]
+  from = "/*"
+  to = "https://www.willbuckingham.com/:splat"
+  status = 301
+  force = true
+
+# This will redirect the home page to WillBuckingham.com
+[[redirects]]
+  from = "/"
+  to = "https://www.willbuckingham.com/"
+  status = 301
+  force = true
